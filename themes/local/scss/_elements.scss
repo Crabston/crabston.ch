@@ -1,0 +1,27 @@
+@import 'theme';
+
+#header {
+	background-color: $header-bg-color !important ;
+
+	*, a:active {
+		color: $secondary-text-color;
+	}
+}
+
+#footer {
+	background-color: $footer-bg-color !important;
+
+	* {
+		color: $secondary-text-color;
+	}
+}
+
+.header-dark #header {
+	a {
+		color: rgba(255, 255, 255, .7) !important;
+	}
+
+	 a.active {
+		color: #FFFFFF !important;
+	}
+}
