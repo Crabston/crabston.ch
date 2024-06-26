@@ -1,26 +1,46 @@
 ---
-title: Über
+title: Über uns
 sitemap:
   changefreq: yearly
   priority: 0.5
-  lastmod: 19-06-2024
-date: 19-06-2024
+  lastmod: 11-02-2024
+date: 11-02-2024
 ---
 
-# Über diese Seite
+# Über uns
 
-Diese Seite ist eine inoffizielle Demoseite für [Grav CMS](https://getgrav.org) und dient als Beispiel für die Verwendung von Grav. Sie enthält Tutorials und Anleitungen, die Ihnen helfen, Ihre Grav Website zu verwalten und zu pflegen.
+## Firma
+Wir sind Crabston GmbH, ein innovatives und dynamisches Unternehmen mit Sitz in Wangen an der Aare, Schweiz. Wir bieten unseren Kunden ein breites Spektrum an Informatikdienstleistungen und weiteren Dienstleistungen an.
 
-## Hinweise
+Alle unsere Dienstleistungen sind für Sie individualisiert, um Ihren persönlichen Bedürfnissen zu entsprechen. Dabei setzen wir auf modernste Technologien, um unseren Kunden die bestmögliche Unterstützung zu bieten.
 
-1. Diese Anleitungen beziehen sich nur auf das Verwalten von einer existierenden Website mit Grav, nicht auf die Installation von Grav selbst oder das Erstellen einer neuen Website. Informieren Sie sich dafür bei der [offiziellen Grav Dokumentation](https://learn.getgrav.org).
-2. Je nach Konfiguration Ihrer Website (Plugins, Themes, etc.) ist es möglich, dass diese nicht dieselben Funktionen und Optionen hat wie in den Anleitungen beschrieben.
-3. Bitte lesen Sie die Anleitungen sorgfältig durch und testen Sie Ihre Änderungen auf einer Testumgebung oder in einem privaten Bereich, bevor Sie sie auf Ihrer Live Website anwenden. 
-4. Da diese Anleitungen für Kunden der [Crabston GmbH](https://crabston.ch) erstellt wurden, können einige Anleitungen spezifisch für diese Websites sein, da sie eigene Konfigurationen enthalten die Ihre Website möglicherweise nicht besitzt. Sie dürfen diese Anleitungen jedoch trotzdem verwenden und teilen.
-5. Obwohl die Anleitungen sorgfältig erstellt werden und auf den neusten Informationen basieren, kann es sein, dass sie nicht mehr aktuell sind oder nicht mehr funktionieren. Wir sind bemüht, die Anleitungen regelmässig zu überprüfen und zu aktualisieren, können jedoch keine Garantie für die Richtigkeit und Funktionalität geben.
+Die Zufriedenheit unserer Kunden steht für uns an erster Stelle. Wir setzen alles daran, unsere Kunden mit unserem Service und unseren Produkten zu begeistern.
 
-## Kontakt
+Unser Büro finden Sie unter folgender Adresse:  
+Crabston GmbH  
+Städtli 16  
+3380 Wangen an der Aare  
+[kontakt@crabston.ch](mailto:kontakt@crabston.ch)
 
-Wenn Sie Fragen oder Anregungen zu den Anleitungen oder zu dieser Seite haben, dürfen Sie uns gerne kontaktieren. Wir freuen uns über Ihr Feedback und helfen Ihnen gerne weiter. Unsere Kontaktdaten finden Sie uf der [Kontaktseite](/über/kontakt).
+## Team
+Lerne unser Team kennen:
 
-Sollten Sie technische Probleme mit Ihrer Website haben, die nicht durch die Anleitungen gelöst werden können, kontaktieren Sie bitte Ihren Webmaster oder wenden Sie sich an uns via [support@crabston.dev](mailto:support@crabston.dev) (nur für Kunden der Crabston GmbH mit einem Supportvertrag oder gegen eine Entschädigung).
+[columns]
+[div class="center c"]
+![Nicholas Krebs](nicholas-krebs.webp?resize=200)
+### Nicholas Krebs
+**Gründer & IT Spezialist**  
+Nicholas Krebs ist ein Gründer von Crabston und der IT Verantwortliche. Als junger Informatiker mit einer abgeschlossenen EFZ-Ausbildung verfügt er über eine breite Grundbildung in vielen Bereichen der Informatik. Das Programmieren hat er sich während seiner Ausbildung selbst beigebracht und hat bereits einige Projekte realisiert.
+[/div]
+
+[div class="center c"]
+![Ronald Krebs](ronald-krebs.webp?resize=200)
+### Ronald Krebs
+**Gründer & Berater**  
+Ronald Krebs ist ein Gründer von Crabston und Berater für diverse Dienstleistungen ausserhalb der Informatik. In seiner Jugend hat er den Beruf des Bildhauers erlernt und ausgeübt. Darüber hinaus hat er bereits verschiedene Firmen gegründet und leitet erfolgreich seit einigen Jahren Bargetzi Grabmalkunst GmbH.
+[/div]
+[/columns]
+
+
+## Standort
+<iframe width="100%" height="500px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.0126923332964!2d7.652396377101254!3d47.235897613501805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791d5000e21006b%3A0xdf42a03b9f8ed076!2sCrabston%20GmbH!5e0!3m2!1sde!2sch!4v1713435587063!5m2!1sde!2sch" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>

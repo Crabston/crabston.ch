@@ -3,8 +3,8 @@ title: Kontakt
 sitemap:
   changefreq: yearly
   priority: 0.4
-  lastmod: 18-06-2024
-date: 18-06-2024
+  lastmod: 11-02-2024
+date: 11-02-2024
 
 form:
   name: contact-form
@@ -63,7 +63,7 @@ form:
     email:
       from: '{{ config.plugins.email.from }}'
       to:
-        - '{{ config.site.author.email }}'
+        - '{{ config.plugins.email.to }}'
       subject: '[Kontaktformular]: {{ form.value.subject|e }}'
       body: '{% include ''forms/data.html.twig'' %}'
     display: thankyou
@@ -72,4 +72,4 @@ form:
 
 # Kontakt
 
-Kontaktiere uns bei technischen Anliegen via E-Mail an [contact@crabston.dev](mailto:contact@crabston.dev) oder über das Kontaktformular.
+Kontaktieren Sie uns bitte über folgende E-Mail Adresse: [kontakt@crabston.ch](mailto:kontakt@crabston.ch). Alternativ können Sie auch über das Kontaktformular mit uns Kontakt aufnehmen.
