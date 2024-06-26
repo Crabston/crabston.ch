@@ -18,11 +18,10 @@ header-animated: true
 header-dark: false
 header-transparent: false
 sticky-footer: true
-blog-page: /tutorial
+blog-page: /blog
 spectre:
   exp: false
   icons: false
-# TODO: check if grid-xl is better
 grid-size: grid-lg
 menu:
   -
@@ -31,7 +30,7 @@ menu:
     url: 'https://getgrav.org/'
     target: _blank
 dropdown:
-  enabled: false
+  enabled: true
 blog_page_hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 custom_logo:
   user/themes/local/images/logo/logo.png:
