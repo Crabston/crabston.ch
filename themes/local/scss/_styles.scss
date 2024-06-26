@@ -1,0 +1,33 @@
+@import 'theme';
+
+$border: 5px solid mix($white, $primary-color, 75%);
+
+h1 {
+	padding-bottom: .25em;
+	border-bottom: $border;
+}
+
+h2 {
+	border-bottom: $border;
+	width: fit-content;
+}
+
+hr {
+	border: 0;
+	border-bottom: $border;
+
+}
+
+#welcome {
+	h1 {
+		padding: 0;
+		border: 0;
+		color: $primary-color;
+		font-size: 3rem;
+		margin-bottom: 0;
+	}
+
+	p {
+		font-size: 1.5rem;
+	}
+}

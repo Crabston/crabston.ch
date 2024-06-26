@@ -19,4 +19,30 @@
   color: #FFFFFF !important;
 }
 
+h1 {
+  padding-bottom: 0.25em;
+  border-bottom: 5px solid #bfd6f4;
+}
+
+h2 {
+  border-bottom: 5px solid #bfd6f4;
+  width: fit-content;
+}
+
+hr {
+  border: 0;
+  border-bottom: 5px solid #bfd6f4;
+}
+
+#welcome h1 {
+  padding: 0;
+  border: 0;
+  color: #005CD4;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+#welcome p {
+  font-size: 1.5rem;
+}
+
 /*# sourceMappingURL=custom.css.map */
