@@ -1,6 +1,6 @@
-# Grav Tutorial
+# crabton.ch
 
-Demo site & Tutorials to Grav CMS
+Website of Crabston GmbH
 
 ## Installation
 
