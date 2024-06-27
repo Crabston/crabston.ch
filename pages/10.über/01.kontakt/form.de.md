@@ -2,7 +2,7 @@
 title: Kontakt
 sitemap:
   changefreq: yearly
-  priority: 0.4
+  priority: 0.7
   lastmod: 11-02-2024
 date: 11-02-2024
 

@@ -17,16 +17,12 @@ _- Dienstleistungen jeglicher Art -_
 
 [div style="height: 200px"][/div]
 
-
-
+---
 ## Dienstleistungen
 Wir bieten folgende Dienstleistungen an:
-
 [plugin:content-inject](/dienstleistungen/_carousel)
 
-
-
+---
 ## Projekte
 Hier sind einige unserer Projekte:
-
 [plugin:content-inject](/projekte/_carousel)

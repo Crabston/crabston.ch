@@ -3,8 +3,8 @@ title: Über uns
 sitemap:
   changefreq: yearly
   priority: 0.5
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 08-05-2024
+date: 08-05-2024
 ---
 
 # Über uns

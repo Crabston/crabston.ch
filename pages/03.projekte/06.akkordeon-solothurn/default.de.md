@@ -4,8 +4,8 @@ slug: akkordeon-solothurn
 sitemap:
   changefreq: monthly
   priority: 0.4
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 08-05-2024
+date: 08-05-2024
 ---
 
 # Akkordeon Solothurn
