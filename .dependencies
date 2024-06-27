@@ -55,6 +55,10 @@ git:
         url: https://github.com/Crabston/grav-theme-minimal
         path: user/themes/minimal
         branch: main
+    page-inject:
+        url: https://github.com/getgrav/grav-plugin-page-inject
+        path: user/plugins/page-inject
+        branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems

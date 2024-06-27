@@ -22,7 +22,7 @@ _- Dienstleistungen jeglicher Art -_
 ## Dienstleistungen
 Wir bieten folgende Dienstleistungen an:
 
-[div style="height: 500px"][/div]
+[plugin:content-inject](/dienstleistungen/_carousel)
 
 ---
 
