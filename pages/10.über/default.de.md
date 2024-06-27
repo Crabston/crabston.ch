@@ -29,17 +29,16 @@ Lerne unser Team kennen:
 [figure class="avatar"]![Nicholas Krebs](nicholas-krebs.webp)[/figure]
 ### Nicholas Krebs
 **Gründer & IT Spezialist**  
-Nicholas Krebs ist ein Gründer von Crabston und der IT Verantwortliche. Als junger Informatiker mit einer abgeschlossenen EFZ-Ausbildung verfügt er über eine breite Grundbildung in vielen Bereichen der Informatik. Das Programmieren hat er sich während seiner Ausbildung selbst beigebracht und hat bereits einige Projekte realisiert.
 [/center]
+Nicholas Krebs ist ein Gründer von Crabston und der IT Verantwortliche. Als junger Informatiker mit einer abgeschlossenen EFZ-Ausbildung verfügt er über eine breite Grundbildung in vielen Bereichen der Informatik. Das Programmieren hat er sich während seiner Ausbildung selbst beigebracht und hat bereits einige Projekte realisiert.
 
 [center]
 [figure class="avatar"]![Ronald Krebs](ronald-krebs.webp)[/figure]
 ### Ronald Krebs
 **Gründer & Berater**  
-Ronald Krebs ist ein Gründer von Crabston und Berater für diverse Dienstleistungen ausserhalb der Informatik. In seiner Jugend hat er den Beruf des Bildhauers erlernt und ausgeübt. Darüber hinaus hat er bereits verschiedene Firmen gegründet und leitet erfolgreich seit einigen Jahren Bargetzi Grabmalkunst GmbH.
 [/center]
+Ronald Krebs ist ein Gründer von Crabston und Berater für diverse Dienstleistungen ausserhalb der Informatik. In seiner Jugend hat er den Beruf des Bildhauers erlernt und ausgeübt. Darüber hinaus hat er bereits verschiedene Firmen gegründet und leitet erfolgreich seit einigen Jahren Bargetzi Grabmalkunst GmbH.
 [/columns]
 
-
 ## Standort
-<iframe width="100%" height="500px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.0126923332964!2d7.652396377101254!3d47.235897613501805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791d5000e21006b%3A0xdf42a03b9f8ed076!2sCrabston%20GmbH!5e0!3m2!1sde!2sch!4v1713435587063!5m2!1sde!2sch" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+[iframe width="100%" height="600" url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.0126923332964!2d7.652396377101254!3d47.235897613501805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791d5000e21006b%3A0xdf42a03b9f8ed076!2sCrabston%20GmbH!5e0!3m2!1sde!2sch!4v1713435587063!5m2!1sde!2sch" /]
