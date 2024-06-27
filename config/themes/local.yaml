@@ -15,15 +15,14 @@ hidehomemenulink: true
 production-mode: true
 header-fixed: true
 header-animated: true
-header-dark: false
+header-dark: true
 header-transparent: false
 sticky-footer: true
-blog-page: /tutorial
+blog-page: /blog
 spectre:
   exp: false
   icons: false
-# TODO: check if grid-xl is better
-grid-size: grid-lg
+grid-size: grid-xl
 menu:
   -
     text: Grav
@@ -31,19 +30,19 @@ menu:
     url: 'https://getgrav.org/'
     target: _blank
 dropdown:
-  enabled: false
+  enabled: true
 blog_page_hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 custom_logo:
-  user/themes/local/images/logo/logo.png:
-    name: logo.png
-    full_path: logo.png
-    type: image/png
-    size: 77545
-    path: user/themes/local/images/logo/logo.png
+  user/themes/local/images/logo/crabston-white.svg:
+    name: crabston-white.svg
+    full_path: crabston-white.svg
+    type: image/svg+xml
+    size: 20688
+    path: user/themes/local/images/logo/crabston-white.svg
 custom_logo_mobile:
-  user/themes/local/images/logo/logo.png:
-    name: logo.png
-    full_path: logo.png
-    type: image/png
-    size: 77545
-    path: user/themes/local/images/logo/logo.png
+  user/themes/local/images/logo/crabston.svg:
+    name: crabston.svg
+    full_path: crabston.svg
+    type: image/svg+xml
+    size: 21997
+    path: user/themes/local/images/logo/crabston.svg

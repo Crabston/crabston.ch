@@ -1,6 +1,6 @@
 enabled: true
 from: noreply@services.crabston.dev
-to: noreply@services.crabston.dev
+to: kontakt@crabston.ch
 mailer:
   engine: sendgrid
 content_type: text/html

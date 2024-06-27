@@ -1,5 +1,21 @@
 // colors
-$bg-color: #ffffff;
-$pri-text-color: #3d3d3d;
-$sec-text-color: #ffffff;
-$pri-bg-color: #ffffff;
+$white: #ffffff;
+$black: #000000;
+$primary-color: #005CD4;
+$secondary-text-color: $white;
+//$secondary-bg-color: $white;
+
+// header & footer
+$header-bg-color: $primary-color;
+$header-text-color: $secondary-text-color;
+$footer-bg-color: $primary-color;
+$footer-text-color: $secondary-text-color;
+
+// navigation
+$navigation-background: $primary-color;
+$navigation-background__active: $primary-color;
+$navigation-text: $primary-color;
+$navigation-text__active: $secondary-text-color;
+
+// sizes
+$nav-item-height: 4rem;

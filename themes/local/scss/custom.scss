@@ -1,2 +1,8 @@
 @use 'theme';
+@use 'components';
+@use 'styles';
 
+@font-face {
+	font-family: 'Montserrat';
+	src: url(../assets/Montserrat.ttf);
+}

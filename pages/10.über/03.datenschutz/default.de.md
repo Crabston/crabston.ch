@@ -11,7 +11,7 @@ date: 27-05-2024
 _Stand: `27.05.2024`_
 
 ## 1. Allgemeines
-Mit dieser Datenschutzerklärung informiert die Crabston Gmbh (nachfolgend «Crabston», «wir» oder «uns» genannt), welche Daten er von natürlichen Personen wofür, wie und wo bearbeitet, ausschliesslich im Zusammenhang mit der Grav Tutorial Webseite ([https://grav.demo.crabston.dev](https://grav.demo.crabston.dev)). Ausserdem informiert er über die Rechte von Personen, deren Daten er bearbeitet.
+Mit dieser Datenschutzerklärung informiert die Crabston Gmbh (nachfolgend «Crabston», «wir» oder «uns» genannt), welche Daten er von natürlichen Personen wofür, wie und wo bearbeitet, im Zusammenhang mit den Websites [crabston.ch](https://crabston.ch), [crabston.com](https://crabston.com) und [crabston.dev](https://crabston.dev). Ausserdem informiert er über die Rechte von Personen, deren Daten er bearbeitet.
 
 Diese Datenschutzerklärung gilt, soweit die Verarbeitungstätigkeiten nicht anderen Datenschutzerklärungen unterliegen oder durch geltendes Recht vorgesehen sind. Bitte lesen Sie diese Datenschutzerklärung sorgfältig durch. Durch die Nutzung unserer Dienstleistungen stimmen Sie der Erhebung und Verarbeitung Ihrer personenbezogenen Daten gemäss dieser Datenschutzerklärung zu.
 
