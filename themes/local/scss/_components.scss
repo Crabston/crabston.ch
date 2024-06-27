@@ -1,10 +1,17 @@
 @import 'theme';
 
 #header {
-	background-color: $header-bg-color !important ;
+	background-color: $header-bg-color !important;
 
 	*, a:active {
 		color: $secondary-text-color;
+	}
+
+}
+
+#header, .mobile-container {
+	.title {
+		font-family: Montserrat, sans-serif;
 	}
 }
 
@@ -22,7 +29,15 @@
 		color: rgba(255, 255, 255, .7) !important;
 	}
 
-	 a.active {
+	a.active {
 		color: #FFFFFF !important;
+	}
+}
+
+.owl-carousel {
+	.btn {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
 	}
 }

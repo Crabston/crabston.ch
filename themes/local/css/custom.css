@@ -5,6 +5,10 @@
   color: #ffffff;
 }
 
+#header .title, .mobile-container .title {
+  font-family: Montserrat, sans-serif;
+}
+
 #footer {
   background-color: #005CD4 !important;
 }
@@ -17,6 +21,12 @@
 }
 .header-dark #header a.active {
   color: #FFFFFF !important;
+}
+
+.owl-carousel .btn {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 h1 {
@@ -40,9 +50,15 @@ hr {
   color: #005CD4;
   font-size: 3rem;
   margin-bottom: 0;
+  font-family: Montserrat, sans-serif;
 }
 #welcome p {
   font-size: 1.5rem;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(../assets/Montserrat.ttf);
 }
 
 /*# sourceMappingURL=custom.css.map */
