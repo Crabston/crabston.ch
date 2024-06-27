@@ -44,6 +44,11 @@ hr {
   border-bottom: 5px solid #bfd6f4;
 }
 
+figure.avatar {
+  height: 10rem;
+  width: 10rem;
+}
+
 #welcome h1 {
   padding: 0;
   border: 0;

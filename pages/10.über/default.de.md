@@ -25,16 +25,15 @@ Städtli 16
 ## Team
 Lerne unser Team kennen:
 
-[columns]
-[center]
-![Nicholas Krebs](nicholas-krebs.webp?resize=200)
+[columns][center]
+[figure class="avatar"]![Nicholas Krebs](nicholas-krebs.webp)[/figure]
 ### Nicholas Krebs
 **Gründer & IT Spezialist**  
 Nicholas Krebs ist ein Gründer von Crabston und der IT Verantwortliche. Als junger Informatiker mit einer abgeschlossenen EFZ-Ausbildung verfügt er über eine breite Grundbildung in vielen Bereichen der Informatik. Das Programmieren hat er sich während seiner Ausbildung selbst beigebracht und hat bereits einige Projekte realisiert.
 [/center]
 
 [center]
-![Ronald Krebs](ronald-krebs.webp?resize=200)
+[figure class="avatar"]![Ronald Krebs](ronald-krebs.webp)[/figure]
 ### Ronald Krebs
 **Gründer & Berater**  
 Ronald Krebs ist ein Gründer von Crabston und Berater für diverse Dienstleistungen ausserhalb der Informatik. In seiner Jugend hat er den Beruf des Bildhauers erlernt und ausgeübt. Darüber hinaus hat er bereits verschiedene Firmen gegründet und leitet erfolgreich seit einigen Jahren Bargetzi Grabmalkunst GmbH.
