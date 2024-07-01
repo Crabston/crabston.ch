@@ -1,8 +1,17 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url(../assets/Montserrat.ttf);
+}
+@media screen and (max-width: 640px) {
+  .sc-columns {
+    column-count: auto !important;
+  }
+}
 #header {
   background-color: #005CD4 !important;
 }
 #header *, #header a:active {
-  color: #ffffff;
+  color: white;
 }
 
 #header .title, .mobile-container .title {
@@ -13,7 +22,7 @@
   background-color: #005CD4 !important;
 }
 #footer * {
-  color: #ffffff;
+  color: white;
 }
 
 .header-dark #header a {
@@ -63,11 +72,6 @@ figure.avatar {
 }
 #welcome p {
   font-size: 1.5rem;
-}
-
-@font-face {
-  font-family: "Montserrat";
-  src: url(../assets/Montserrat.ttf);
 }
 
 /*# sourceMappingURL=custom.css.map */

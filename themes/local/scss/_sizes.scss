@@ -1,0 +1,5 @@
+@media screen and (max-width: $responsive-breakpoint-mobile) {
+	.sc-columns {
+		column-count: auto !important;
+	}
+}
