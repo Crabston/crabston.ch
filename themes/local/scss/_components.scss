@@ -1,43 +1,27 @@
-@import 'theme';
-
-#header {
-	background-color: $header-bg-color !important;
-
-	*, a:active {
-		color: $secondary-text-color;
-	}
-
-}
-
-#header, .mobile-container {
-	.title {
-		font-family: Montserrat, sans-serif;
-	}
-}
-
-#footer {
-	background-color: $footer-bg-color !important;
-
-	* {
-		color: $secondary-text-color;
-	}
-}
-
-// todo: move somewhere else
-.header-dark #header {
-	a {
-		color: rgba(255, 255, 255, .7) !important;
-	}
-
-	a.active {
-		color: #FFFFFF !important;
-	}
-}
-
 .owl-carousel {
-	.btn {
-		position: absolute;
-		bottom: 0;
-		width: 100%;
+	.owl-stage {
+		display: flex;
+	}
+
+	.owl-item {
+		height: auto;
+
+		.owl-item-container {
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+
+			p:not(:has(.btn)) { margin-bottom: 0; }
+
+			p:has(.btn) { margin-top: auto; }
+
+			.btn { width: 100%; }
+		}
+	}
+}
+
+body:not(.modular) #body-wrapper > .container {
+	.modular-text, .container {
+		padding: 0;
 	}
 }

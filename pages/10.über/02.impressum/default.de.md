@@ -2,9 +2,9 @@
 title: Impressum
 sitemap:
   changefreq: yearly
-  priority: 0.4
-  lastmod: 27-05-2024
-date: 27-05-2024
+  priority: 0.3
+  lastmod: 11-02-2024
+date: 11-02-2024
 ---
 
 # Impressum

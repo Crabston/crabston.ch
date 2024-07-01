@@ -1,6 +1,4 @@
-@import 'theme';
-
-$border: 5px solid mix($white, $primary-color, 75%);
+$border: 5px solid mix(white, $primary-color, 75%);
 
 h1 {
 	padding-bottom: .25em;
@@ -23,6 +21,31 @@ figure.avatar {
 	width: 10rem;
 }
 
+#header {
+	background-color: $header-bg-color !important;
+
+	// only list of items which is a direct child of the header nav. doesn't affect nested lists (menu dropdowns)
+	.header-dark & .dropmenu > ul > li {
+		& > a { color: $text-color-secondary-dark !important; }
+
+		& > a.active { color: $text-color-secondary !important; }
+	}
+}
+
+#header, .mobile-container {
+	.title {
+		font-family: Montserrat, sans-serif;
+		font-weight: bold;
+		color: $text-color-secondary;
+	}
+}
+
+#footer {
+	background-color: $footer-bg-color !important;
+
+	* { color: $text-color-secondary; }
+}
+
 #welcome {
 	h1 {
 		padding: 0;
@@ -33,7 +56,9 @@ figure.avatar {
 		font-family: Montserrat, sans-serif;
 	}
 
-	p {
-		font-size: 1.5rem;
-	}
+	p { font-size: 1.5rem; }
+}
+
+.mobile-menu #toggle:not(.active) span {
+	background-color: $text-color-secondary !important;
 }

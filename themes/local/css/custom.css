@@ -1,32 +1,35 @@
-#header {
-  background-color: #005CD4 !important;
+@font-face {
+  font-family: "Montserrat";
+  src: url(../assets/Montserrat.ttf);
 }
-#header *, #header a:active {
-  color: #ffffff;
+@media screen and (max-width: 640px) {
+  .sc-columns {
+    column-count: auto !important;
+  }
 }
-
-#header .title, .mobile-container .title {
-  font-family: Montserrat, sans-serif;
+.owl-carousel .owl-stage {
+  display: flex;
 }
-
-#footer {
-  background-color: #005CD4 !important;
+.owl-carousel .owl-item {
+  height: auto;
 }
-#footer * {
-  color: #ffffff;
+.owl-carousel .owl-item .owl-item-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
-
-.header-dark #header a {
-  color: rgba(255, 255, 255, 0.7) !important;
+.owl-carousel .owl-item .owl-item-container p:not(:has(.btn)) {
+  margin-bottom: 0;
 }
-.header-dark #header a.active {
-  color: #FFFFFF !important;
+.owl-carousel .owl-item .owl-item-container p:has(.btn) {
+  margin-top: auto;
 }
-
-.owl-carousel .btn {
-  position: absolute;
-  bottom: 0;
+.owl-carousel .owl-item .owl-item-container .btn {
   width: 100%;
+}
+
+body:not(.modular) #body-wrapper > .container .modular-text, body:not(.modular) #body-wrapper > .container .container {
+  padding: 0;
 }
 
 h1 {
@@ -49,6 +52,29 @@ figure.avatar {
   width: 10rem;
 }
 
+#header {
+  background-color: #005CD4 !important;
+}
+.header-dark #header .dropmenu > ul > li > a {
+  color: rgba(223, 223, 223, 0.625) !important;
+}
+.header-dark #header .dropmenu > ul > li > a.active {
+  color: white !important;
+}
+
+#header .title, .mobile-container .title {
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+#footer {
+  background-color: #005CD4 !important;
+}
+#footer * {
+  color: white;
+}
+
 #welcome h1 {
   padding: 0;
   border: 0;
@@ -61,9 +87,8 @@ figure.avatar {
   font-size: 1.5rem;
 }
 
-@font-face {
-  font-family: "Montserrat";
-  src: url(../assets/Montserrat.ttf);
+.mobile-menu #toggle:not(.active) span {
+  background-color: white !important;
 }
 
 /*# sourceMappingURL=custom.css.map */
