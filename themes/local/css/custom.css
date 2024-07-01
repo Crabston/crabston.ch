@@ -29,6 +29,10 @@
   width: 100%;
 }
 
+body:not(.modular) #body-wrapper > .container .modular-text, body:not(.modular) #body-wrapper > .container .container {
+  padding: 0;
+}
+
 h1 {
   padding-bottom: 0.25em;
   border-bottom: 5px solid #bfd6f4;
