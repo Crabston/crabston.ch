@@ -7,9 +7,24 @@
     column-count: auto !important;
   }
 }
-.owl-carousel .btn {
-  position: absolute;
-  bottom: 0;
+.owl-carousel .owl-stage {
+  display: flex;
+}
+.owl-carousel .owl-item {
+  height: auto;
+}
+.owl-carousel .owl-item .owl-item-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.owl-carousel .owl-item .owl-item-container p:not(:has(.btn)) {
+  margin-bottom: 0;
+}
+.owl-carousel .owl-item .owl-item-container p:has(.btn) {
+  margin-top: auto;
+}
+.owl-carousel .owl-item .owl-item-container .btn {
   width: 100%;
 }
 
