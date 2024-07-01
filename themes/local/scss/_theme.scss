@@ -1,21 +1,28 @@
-// colors
-$white: #ffffff;
-$black: #000000;
+@import '../../minimal/scss/theme';
+
+// color definitions
 $primary-color: #005CD4;
-$secondary-text-color: $white;
-//$secondary-bg-color: $white;
+$accent-color: #005CD4;
+$grey: #3a414e;
+$light-overlay: rgba(255, 255, 255, 0.25);
+$dark-overlay: rgba(0, 0, 0, 0.25);
 
 // header & footer
 $header-bg-color: $primary-color;
-$header-text-color: $secondary-text-color;
+$header-text-color: $text-color-secondary;
 $footer-bg-color: $primary-color;
-$footer-text-color: $secondary-text-color;
+$footer-text-color: $text-color-secondary;
 
 // navigation
 $navigation-background: $primary-color;
 $navigation-background__active: $primary-color;
 $navigation-text: $primary-color;
-$navigation-text__active: $secondary-text-color;
+$navigation-text__active: $text-color-secondary;
 
 // sizes
 $nav-item-height: 4rem;
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url(../assets/Montserrat.ttf);
+}

@@ -1,10 +1,8 @@
-@import 'theme';
-
 #header {
 	background-color: $header-bg-color !important;
 
 	*, a:active {
-		color: $secondary-text-color;
+		color: $text-color-secondary;
 	}
 
 }
@@ -19,7 +17,7 @@
 	background-color: $footer-bg-color !important;
 
 	* {
-		color: $secondary-text-color;
+		color: $text-color-secondary;
 	}
 }
 
