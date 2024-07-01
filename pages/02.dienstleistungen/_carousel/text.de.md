@@ -2,7 +2,7 @@
 title: Carousel
 ---
 
-[owl-carousel margin=100 center=true stagePadding=100 loop=true autoplay=false nav=true responsive={0:{items:1,stagePadding:25},640:{items:1,stagePadding:100},960:{items:2,stagePadding:50},1280:{items:2,stagePadding:100}}][div class="owl-item-container"]
+[owl-carousel margin=100 center=true stagePadding=100 loop=true autoplay=true nav=true responsive={0:{items:1,stagePadding:25},640:{items:1,stagePadding:100},960:{items:2,stagePadding:50},1280:{items:2,stagePadding:100}}][div class="owl-item-container"]
 ![Website](../01.website/website.webp)
 ### Website
 Benötigen Sie eine Website für Ihren Verein, Startup oder für einen persönlichen Zweck?  

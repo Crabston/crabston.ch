@@ -2,7 +2,7 @@
 title: Carousel
 ---
 
-[owl-carousel margin=100 center=true stagePadding=100 loop=true autoplay=false nav=true responsive={0:{items:1,stagePadding:25},640:{items:1,stagePadding:100},960:{items:2,stagePadding:50},1280:{items:2,stagePadding:100}}][div class="owl-item-container"]
+[owl-carousel margin=100 center=true stagePadding=100 loop=true autoplay=true nav=true responsive={0:{items:1,stagePadding:25},640:{items:1,stagePadding:100},960:{items:2,stagePadding:50},1280:{items:2,stagePadding:100}}][div class="owl-item-container"]
 ![Portfolio](../01.portfolio/portfolio.webp)
 ### Portfolio
 [span class="chip"]Veröffentlicht[/span] [span class="chip"]Persönlich[/span] [span class="chip"]Website[/span]<br/><br/>
