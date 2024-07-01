@@ -74,4 +74,8 @@ figure.avatar {
   font-size: 1.5rem;
 }
 
+.mobile-menu #toggle:not(.active) span {
+  background-color: white !important;
+}
+
 /*# sourceMappingURL=custom.css.map */
