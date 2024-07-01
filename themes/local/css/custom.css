@@ -7,31 +7,6 @@
     column-count: auto !important;
   }
 }
-#header {
-  background-color: #005CD4 !important;
-}
-#header *, #header a:active {
-  color: white;
-}
-
-#header .title, .mobile-container .title {
-  font-family: Montserrat, sans-serif;
-}
-
-#footer {
-  background-color: #005CD4 !important;
-}
-#footer * {
-  color: white;
-}
-
-.header-dark #header a {
-  color: rgba(255, 255, 255, 0.7) !important;
-}
-.header-dark #header a.active {
-  color: #FFFFFF !important;
-}
-
 .owl-carousel .btn {
   position: absolute;
   bottom: 0;
@@ -60,6 +35,29 @@ hr {
 figure.avatar {
   height: 10rem;
   width: 10rem;
+}
+
+#header {
+  background-color: #005CD4 !important;
+}
+.header-dark #header .dropmenu > ul > li > a {
+  color: rgba(223, 223, 223, 0.625) !important;
+}
+.header-dark #header .dropmenu > ul > li > a.active {
+  color: white !important;
+}
+
+#header .title, .mobile-container .title {
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+#footer {
+  background-color: #005CD4 !important;
+}
+#footer * {
+  color: white;
 }
 
 #welcome h1 {

@@ -1,37 +1,3 @@
-#header {
-	background-color: $header-bg-color !important;
-
-	*, a:active {
-		color: $text-color-secondary;
-	}
-
-}
-
-#header, .mobile-container {
-	.title {
-		font-family: Montserrat, sans-serif;
-	}
-}
-
-#footer {
-	background-color: $footer-bg-color !important;
-
-	* {
-		color: $text-color-secondary;
-	}
-}
-
-// todo: move somewhere else
-.header-dark #header {
-	a {
-		color: rgba(255, 255, 255, .7) !important;
-	}
-
-	a.active {
-		color: #FFFFFF !important;
-	}
-}
-
 .owl-carousel {
 	.btn {
 		position: absolute;
