@@ -32,6 +32,13 @@ menu:
 dropdown:
   enabled: true
 blog_page_hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+favicon:
+  user/themes/local/images/favicon.svg:
+    name: favicon.svg
+    full_path: favicon.svg
+    type: image/svg+xml
+    size: 21997
+    path: user/themes/local/images/favicon.svg
 custom_logo:
   user/themes/local/images/logo/crabston-white.svg:
     name: crabston-white.svg
