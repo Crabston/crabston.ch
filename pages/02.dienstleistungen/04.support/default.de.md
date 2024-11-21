@@ -10,7 +10,7 @@ date: 11-02-2024
 
 # Support
 
-![Support](support.webp?resize=500)
+![Support](../_carousel/support.svg?resize=500)
 
 Benötigen Sie eine andere IT Dienstleistung oder haben Sie eine Frage zur IT?
 

@@ -10,7 +10,7 @@ date: 11-02-2024
 
 # Applikation
 
-![Applikation](application.webp?resize=500)
+![Applikation](../_carousel/webshop.svg?resize=500)
 
 Benötigen Sie eine eigene Applikation für Ihre Firma, die all Ihren Wünschen entspricht?
 
