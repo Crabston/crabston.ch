@@ -6,7 +6,17 @@ sitemap:
   priority: 0.4
   lastmod: 08-05-2024
 date: 08-05-2024
+taxonomy:
+  category: Projekte
+  tag: [ Website, Grav ]
+header_image_file: akkordeon-solothurn.webp
+hero_image: akkordeon-solothurn.webp
+hero_classes: 'text-dark overlay-dark parallax'
 ---
+
+Ein weiteres Projekt ist die Website für den Verein Akkordeon Solothurn. Auch hier war das Ziel, die alte Website mit einer neuen, modernen auszutauschen.
+
+===
 
 # Akkordeon Solothurn
 

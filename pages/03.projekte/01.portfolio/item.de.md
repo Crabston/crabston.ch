@@ -4,9 +4,19 @@ slug: portfolio
 sitemap:
   changefreq: monthly
   priority: 0.4
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 06-06-2023
+date: 06-06-2023
+taxonomy:
+  category: Projekte
+  tag: [ Website, Code ]
+header_image_file: portfolio.webp
+hero_image: portfolio.webp
+hero_classes: 'text-dark overlay-dark parallax'
 ---
+
+Diese Website ist das persönliche Portfolio von Nicholas Krebs und wurde eigenständig von ihm erstellt. Im Juni 2023 wurde diese von Grund auf überarbeitet und basiert nun auf den neuesten Technologien.
+
+===
 
 # Portfolio
 

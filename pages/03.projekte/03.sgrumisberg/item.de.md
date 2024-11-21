@@ -4,9 +4,19 @@ slug: sgrumisberg
 sitemap:
   changefreq: monthly
   priority: 0.4
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 25-06-2022
+date: 25-06-2022
+taxonomy:
+  category: Projekte
+  tag: [ Website, Grav ]
+header_image_file: sgrumisberg.webp
+hero_image: sgrumisberg.webp
+hero_classes: 'text-dark overlay-dark parallax'
 ---
+
+Die Website der Schützengesellschaft Rumisberg war der erste Auftrag eines Gründungsmitglieds von Crabston GmbH. Der Verein aus seinem damaligen Wohnort fragte ihn privat für die Neuerstellung ihrer veralteten Website an.
+
+===
 
 # Schützengesellschaft Rumisberg
 

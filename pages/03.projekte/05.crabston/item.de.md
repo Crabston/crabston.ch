@@ -5,9 +5,19 @@ slug: crabston
 sitemap:
   changefreq: monthly
   priority: 0.4
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 01-07-2024
+date: 01-07-2024
+taxonomy:
+  category: Projekte
+  tag: [ Website, Grav, Code ]
+header_image_file: crabston.webp
+hero_image: crabston.webp
+hero_classes: 'text-dark overlay-dark parallax'
 ---
+
+Dies ist die Geschäftswebsite von Crabston GmbH, die Website, auf der Sie sich gerade befinden. Sie wurde im Februar 2024 aus einer bestehenden Website eines Mitarbeiters erstellt.
+
+===
 
 # Crabston GmbH
 

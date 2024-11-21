@@ -4,9 +4,19 @@ slug: mgrumisberg
 sitemap:
   changefreq: monthly
   priority: 0.4
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 01-09-2022
+date: 01-09-2022
+taxonomy:
+  category: Projekte
+  tag: [ Website, Grav ]
+header_image_file: mgrumisberg.webp
+hero_image: mgrumisberg.webp
+hero_classes: 'text-dark overlay-dark parallax'
 ---
+
+Ein weiteres Projekt eines Gründungsmitglieds von Crabston GmbH war die Website der Musikgesellschaft Rumisberg. Als Mitglied in diesem Verein übernahm er die Aufgabe zur Erstellung einer neuen Website.
+
+===
 
 # Musikgesellschaft Rumisberg
 
