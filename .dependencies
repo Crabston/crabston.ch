@@ -59,6 +59,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-page-inject
         path: user/plugins/page-inject
         branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
@@ -95,6 +99,14 @@ git:
         url: https://github.com/Crabston/grav-plugin-sitemap
         path: user/plugins/sitemap
         branch: develop
+    taxonomylist:
+        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        branch: master
+    translate-date:
+        url: https://github.com/Karmalakas/grav-plugin-translate-date
+        path: user/plugins/translate-date
+        branch: main
     umami-analytics:
         url: https://github.com/Crabston/grav-plugin-umami-analytics
         path: user/plugins/umami-analytics
