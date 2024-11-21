@@ -55,5 +55,5 @@ features:
 ## Leistungen
 
 [left]
-Wir bieten folgende Leistungen bei einer Website:
+Wir bieten folgende Leistungen bei der Erstellung einer Website:
 [/left]
