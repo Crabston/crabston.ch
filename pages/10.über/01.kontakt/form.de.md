@@ -50,6 +50,9 @@ form:
       validate:
         required: '1'
 
+    honeypot:
+      type: honeypot
+
   buttons:
     submit:
       type: submit
