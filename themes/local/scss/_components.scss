@@ -20,8 +20,6 @@
 	}
 }
 
-body:not(.modular) #body-wrapper > .container {
-	.modular-text, .container {
-		padding: 0;
-	}
+#start section.modular-text:nth-of-type(1) {
+	margin-top: 4rem;
 }
