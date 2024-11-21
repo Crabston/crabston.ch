@@ -14,10 +14,10 @@ date: 19-11-2024
 
 ## Support
 Um uns zu kontaktieren, können folgende Kanäle genutzt werden:
-- [Helpdesk Portal](https://crabston.atlassian.net/servicedesk/customer/portals) _(bevorzugt, Konto benötigt)_
-- Support E-Mail Adresse ([support@crabston.dev](mailto:support@crabston.dev)) _(bevorzugt)_
+- [Helpdesk Portal](https://crabston.atlassian.net/servicedesk/customer/portals) _(Konto benötigt)_
+- Support E-Mail Adresse ([support@crabston.dev](mailto:support@crabston.dev))
 
-Bei Kontaktversuchen via andere E-Mail Adressen, Telefon/ Chat ([+41 76 471 29 12](tel:+41764712912)) oder weitere inoffizielle Wege kann die SLA nicht garantiert werden.
+Bei Kontaktversuchen via andere E-Mail Adressen, Telefon/ Chat oder weitere inoffizielle Wege kann die SLA nicht garantiert werden.
 
 ### Helpdesk
 Im Helpdesk der Crabston GmbH werden alle Supportfälle und Anfragen erstellt und veraltet. Um ein Ticket zu erstellen, kann entweder das [Portal](https://crabston.atlassian.net/servicedesk/customer/portals) oder die E-Mail Adresse [support@crabston.dev](mailto:support@crabston.dev) verwendet werden. Sollte Crabston auf eine andere Weise kontaktiert werden, wird dennoch ein Ticket aus Gründen der Dokumentation erstellt. Den aktuellen Status kann via Portal eingesehen werden. Bei Rückfragen werden diese zudem an die hinterlegte E-Mail Adresse versendet.
@@ -25,7 +25,7 @@ Im Helpdesk der Crabston GmbH werden alle Supportfälle und Anfragen erstellt un
 ### Supportzeiten
 Unsere Supportzeiten sind jeweils Werktags Mo-Fr, 8:00 - 17:00. Ausgenommen davon sind offizielle Feiertage. Die SLA richtet sich nach folgender Tabelle:
 
-| Typ         | Dringlichkeit / Impakt |  TTFR | TTRS |
+| Typ         | Dringlichkeit / Impakt |  TTFR | TTRL |
 |:------------|:-----------------------|------:|-----:|
 | **Störung** | klein / kaum           |    8h |  48h |
 |             | normal / mittel        |    6h |  36h |
@@ -37,4 +37,4 @@ Unsere Supportzeiten sind jeweils Werktags Mo-Fr, 8:00 - 17:00. Ausgenommen davo
 |             | dringend / extrem      |    4h |  24h |
 
 - `TTFR`: Zeit zur ersten Antwort
-- `TTRS`: Zeit bis zur Lösung
+- `TTRL`: Zeit bis zur Lösung
