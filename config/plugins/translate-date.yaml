@@ -1,0 +1,4 @@
+enabled: true
+processor: basic
+formats:
+  de: 'M Y'
