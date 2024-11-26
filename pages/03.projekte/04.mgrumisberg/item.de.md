@@ -2,7 +2,7 @@
 title: Musikgesellschaft Rumisberg
 slug: mgrumisberg
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
   lastmod: 21-11-2024
 date: 01-09-2022

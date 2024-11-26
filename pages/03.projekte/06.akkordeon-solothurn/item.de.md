@@ -2,7 +2,7 @@
 title: Akkordeon Solothurn
 slug: akkordeon-solothurn
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
   lastmod: 21-11-2024
 date: 08-05-2024
@@ -19,7 +19,7 @@ Ein weiteres Projekt ist die Website für den Verein Akkordeon Solothurn. Auch h
 ===
 
 # Akkordeon Solothurn
-![Screenshot Website](akkordeon-solothurn.webp?lightbox&resize=600)
+![Screenshot Website](akkordeon-solothurn.webp?lightbox&resize=750)
 
 ## Beschreibung
 Ein weiteres Projekt ist die Website für den Verein Akkordeon Solothurn. Auch hier war das Ziel, die alte Website mit einer neuen, modernen auszutauschen.

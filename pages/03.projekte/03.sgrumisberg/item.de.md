@@ -2,7 +2,7 @@
 title: Schützengesellschaft Rumisberg
 slug: sgrumisberg
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
   lastmod: 21-11-2024
 date: 25-06-2022

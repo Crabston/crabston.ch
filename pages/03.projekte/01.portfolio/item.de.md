@@ -2,7 +2,7 @@
 title: Portfolio
 slug: portfolio
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
   lastmod: 26-11-2024
 date: 06-06-2023

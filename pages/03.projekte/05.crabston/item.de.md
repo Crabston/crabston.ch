@@ -2,13 +2,13 @@
 title: Crabston GmbH
 slug: crabston
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
   lastmod: 26-11-2024
 date: 01-03-2024
 taxonomy:
   category: Projekte
-  tag: [ Website, Grav, Code ]
+  tag: [ Website, Grav ]
 header_image_file: crabston.webp
 hero_image: crabston.webp
 hero_classes: 'text-dark overlay-dark parallax'
@@ -20,7 +20,7 @@ Dies ist die Geschäftswebsite von Crabston GmbH, die Website, auf der Sie sich 
 
 # Crabston GmbH
 
-![Screenshot Website](crabston.webp?lightbox&resize=600)
+![Screenshot Website](crabston.webp?lightbox&resize=750)
 
 ## Beschreibung
 

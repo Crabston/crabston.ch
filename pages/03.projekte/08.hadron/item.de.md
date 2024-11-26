@@ -2,7 +2,7 @@
 title: Hadron
 slug: hadron
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
   lastmod: 26-11-2024
 date: 01-09-2024
