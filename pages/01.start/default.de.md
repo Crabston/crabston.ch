@@ -24,5 +24,4 @@ Wir bieten folgende Dienstleistungen an:
 
 ---
 ## Projekte
-Hier sind einige unserer Projekte:
-[plugin:content-inject](/projekte/_carousel)
+Eine Liste unserer Projekte findet sie auf unserer [Projektseite /projekte](/projekte).
