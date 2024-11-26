@@ -27,8 +27,6 @@ content:
   order:
     by: date
     dir: dsc
-  limit: 8
-  pagination: true
   url_taxonomy_filters: true
 hide_summary: false
 ---
