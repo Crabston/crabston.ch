@@ -24,4 +24,4 @@ changefreq: never
 include_priority: true
 priority: 0.5
 multilang_enabled: true
-date_type: page_date
+date_type: last_modified
