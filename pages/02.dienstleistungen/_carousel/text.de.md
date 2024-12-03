@@ -3,48 +3,35 @@ title: Carousel
 ---
 
 [owl-carousel margin=100 center=true stagePadding=100 loop=true autoplay=true nav=true responsive={0:{items:1,stagePadding:25},640:{items:1,stagePadding:100},960:{items:2,stagePadding:50},1280:{items:2,stagePadding:100}}][div class="owl-item-container"]
-![Website](../01.website/website.webp)
+![Website Illustration](website.svg)
 ### Website
-Benötigen Sie eine Website für Ihren Verein, Startup oder für einen persönlichen Zweck?  
-Wir erstellen günstig eine moderne Website für Sie, die Ihren Wünschen entspricht. Auf Wunsch finden wir eine passende Domain und verwalten Ihr gesamtes Hosting & E-Mail für Sie.
+_Benötigen Sie eine Website für Ihren Verein, Startup, KMU oder für einen persönlichen Zweck, die auch von Personen ohne Vorkenntnisse einfach aktualisiert werden kann?_  
+Wir erstellen eine moderne Website für Sie, die Sie dann selbst bearbeiten können, auch ohne Vorkenntnisse. Zusätzlich übernehmen wir die gesamte Verwaltung, damit Sie sich auf Ihre Dinge konzentrieren können.
 - professionelle Website
-- responsive Design
-- optimiertes SEO
-- Domain, Hosting & Email
+- individuell
+- einfach zu bearbeiten
+- inkl. Verwaltung & Support
 
 [Mehr erfahren](/dienstleistungen/website?classes=btn,btn-secondary,btn-lg)
 [/div]
 
 [div class="owl-item-container"]
-![Applikation](../02.applikation/application.webp)
-### Applikation
-Benötigen Sie eine eigene Applikation für Ihre Firma, die all Ihren Wünschen entspricht?  
-Wir erstellen für Sie eine moderne Applikation, die für Ihr Anliegen personalisiert ist und Ihren Wünschen entspricht. Diese kann für Smartphones, Desktopgeräte und/ oder webbasiert sein.
-- moderne Applikation
-- einfach zu bedienen
-- einfach erweiterbar
-- sichere Daten
+![Webshop Illustration](webshop.svg)
+### Webshop
+_Benötigen Sie einen einfach zu bedienenden Webshop mit zahllosen Möglichkeiten und Funktionen, um mit Ihren Produkten zu werben und diese zu verkaufen?_  
+Wir erstellen für Sie einen voll funktionalen Webshop, den Sie einfach bearbeiten und erweitern können. Auch die Verwaltung übernehmen wir für Sie, so können Sie sich auf Ihre Produkte konzentrieren.
+- moderner Webshop
+- vielseitig anpassbar
+- schnell zu erlernen
+- inkl. Verwaltung & Support
 
-[Mehr erfahren](/dienstleistungen/applikation?classes=btn,btn-secondary,btn-lg)
+[Mehr erfahren](/dienstleistungen/webshop?classes=btn,btn-secondary,btn-lg)
 [/div]
 
 [div class="owl-item-container"]
-![Datenbank](../03.datenbank/database.webp)
-### Datenbank
-Benötigen Sie eine neue Datenbank oder möchten Sie in eine bestehende migrieren?  
-Wir können für Sie eine Datenbank nach Ihren Wünschen erstellen oder eine bestehende zu einem anderen System migrieren. Dabei kann es sich um eine SQL oder NoSQL DB handeln.
-- Datenbanksystem
-- überlegte Struktur
-- einfach zu verwalten
-- schnelle Abfragen
-
-[Mehr erfahren](/dienstleistungen/datenbank?classes=btn,btn-secondary,btn-lg)
-[/div]
-
-[div class="owl-item-container"]
-![Support](../04.support/support.webp)
+![Support Illustration](support.svg)
 ### Support
-Benötigen Sie eine andere IT Dienstleistung oder haben Sie eine Frage zur IT?  
+_Benötigen Sie eine andere IT Dienstleistung oder haben Sie eine Frage zur IT?_  
 Wir bieten Ihnen auch andere IT Dienstleistungen an oder beantworte Ihre Fragen zum Thema IT. Die Möglichkeiten sind dabei unbegrenzt. Kontaktieren Sie uns und wir finden eine Lösung für Sie.
 
 [Mehr erfahren](/dienstleistungen/support?classes=btn,btn-secondary,btn-lg)

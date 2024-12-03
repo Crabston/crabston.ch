@@ -2,19 +2,29 @@
 title: Musikgesellschaft Rumisberg
 slug: mgrumisberg
 sitemap:
-  changefreq: monthly
+  changefreq: never
   priority: 0.4
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 21-11-2024
+date: 01-09-2022
+taxonomy:
+  category: Projekte
+  tag: [ Website, Grav ]
+header_image_file: mgrumisberg.webp
+hero_image: mgrumisberg.webp
+hero_classes: 'text-light overlay-dark parallax'
 ---
+
+Ein weiteres privates Projekt von Nicholas war die Website der Musikgesellschaft Rumisberg. Als Mitglied in diesem Verein übernahm er die Aufgabe zur Erstellung einer neuen Website.
+
+===
 
 # Musikgesellschaft Rumisberg
 
-![Musikgesellschaft Rumisberg](mgrumisberg.webp?lightbox&resize=600)
+![Screenshot Website](mgrumisberg.webp?lightbox&resize=750)
 
 ## Beschreibung
 
-Ein weiteres Projekt eines Gründungsmitglieds von Crabston GmbH war die Website der Musikgesellschaft Rumisberg. Als Mitglied in diesem Verein übernahm er die Aufgabe zur Erstellung einer neuen Website.
+Ein weiteres privates Projekt von Nicholas war die Website der Musikgesellschaft Rumisberg. Als Mitglied in diesem Verein übernahm er die Aufgabe zur Erstellung einer neuen Website.
 
 Die alte Website war mühsam zu verwalten, da sie kein CMS besass. Aus diesem Grund verwendete er erneut das CMS Grav, da das bestehende Design einfach übernommen werden konnte. Er nahm nur Änderungen am Design vor, um der Website einen modernen Stil zu geben.
 
