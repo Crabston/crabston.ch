@@ -50,8 +50,9 @@ form:
       validate:
         required: '1'
 
-    honeypot:
-      type: honeypot
+    turnstile:
+      type: turnstile
+      theme: light
 
   buttons:
     submit:
@@ -63,6 +64,7 @@ form:
       value: Zurücksetzen
 
   process:
+    turnstile: true
     email:
       from: '{{ config.plugins.email.from }}'
       to:
