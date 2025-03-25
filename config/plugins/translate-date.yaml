@@ -1,4 +1,4 @@
 enabled: true
-processor: basic
+processor: intl
 formats:
-  de: 'M Y'
+  de: 'MMMM Y'
