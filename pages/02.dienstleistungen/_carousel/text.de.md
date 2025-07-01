@@ -32,7 +32,7 @@ Wir erstellen für Sie einen individuellen, voll funktionalen Webshop, den Sie e
 ![Support Illustration](support.svg)
 ### Support
 _Benötigen Sie eine andere IT Dienstleistung oder haben Sie eine Frage zur IT?_  
-Wir bieten Ihnen auch andere IT Dienstleistungen an oder beantworte Ihre Fragen zum Thema IT. Die Möglichkeiten sind dabei unbegrenzt. Kontaktieren Sie uns und wir finden eine Lösung für Sie.
+Wir bieten Ihnen individuellen Support und massgeschneiderte IT Dienstleistungen an. Egal ob Sie Hilfe bei einem IT Problem benötigen, eine Beratung wünschen oder eine spezielle Dienstleistung suchen, wir finden eine passende Lösung für Sie.
 
 [Mehr erfahren](/dienstleistungen/support?classes=btn,btn-secondary,btn-lg)
 [/div]
