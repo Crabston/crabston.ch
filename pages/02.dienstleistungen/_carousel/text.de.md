@@ -18,11 +18,11 @@ Wir erstellen für Sie eine einzigartige und moderne Website nach Ihren Wünsche
 [div class="owl-item-container"]
 ![Webshop Illustration](webshop.svg)
 ### Webshop
-_Benötigen Sie einen einfach zu bedienenden Webshop mit zahllosen Möglichkeiten und Funktionen, um mit Ihren Produkten zu werben und diese zu verkaufen?_  
-Wir erstellen für Sie einen voll funktionalen Webshop, den Sie einfach bearbeiten und erweitern können. Auch die Verwaltung übernehmen wir für Sie, so können Sie sich auf Ihre Produkte konzentrieren.
-- moderner Webshop
-- vielseitig anpassbar
-- schnell zu erlernen
+_Benötigen Sie einen einfach zu bedienenden Webshop mit nützlichen Funktionen, um mit Ihren Produkten zu werben und diese an Ihre Kunden zu verkaufen?_  
+Wir erstellen für Sie einen individuellen, voll funktionalen Webshop, den Sie einfach aktualisieren und erweitern können. Zudem übernehmen wir alle administrativen Verwaltungsaufgaben, damit Sie sich auf Ihr Geschäft konzentrieren können.
+- individueller Webshop
+- unkomplizierte Bedienung
+- viele nützliche Funktionen
 - inkl. Verwaltung & Support
 
 [Mehr erfahren](/dienstleistungen/webshop?classes=btn,btn-secondary,btn-lg)
