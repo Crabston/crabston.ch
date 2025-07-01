@@ -5,10 +5,10 @@ title: Carousel
 [owl-carousel margin=100 center=true stagePadding=100 loop=true autoplay=true nav=true responsive={0:{items:1,stagePadding:25},640:{items:1,stagePadding:100},960:{items:2,stagePadding:50},1280:{items:2,stagePadding:100}}][div class="owl-item-container"]
 ![Website Illustration](website.svg)
 ### Website
-_Benötigen Sie eine Website für Ihren Verein, Startup, KMU oder für einen persönlichen Zweck, die auch von Personen ohne Vorkenntnisse einfach aktualisiert werden kann?_  
-Wir erstellen eine moderne Website für Sie, die Sie dann selbst bearbeiten können, auch ohne Vorkenntnisse. Zusätzlich übernehmen wir die gesamte Verwaltung, damit Sie sich auf Ihre Dinge konzentrieren können.
+_Benötigen Sie eine Website für Ihren Verein, Startup, KMU oder einen anderen Zweck, die auch ohne Vorkenntnisse einfach aktualisiert und bearbeitet werden kann?_  
+Wir erstellen für Sie eine einzigartige und moderne Website nach Ihren Wünschen, die Sie später selbst bearbeiten können, auch ohne Vorkenntnisse mit Websites. Zusätzlich übernehmen wir die gesamte Verwaltung, damit Sie sich auf Ihre Dinge konzentrieren können.
 - professionelle Website
-- individuell
+- individuell gestaltet
 - einfach zu bearbeiten
 - inkl. Verwaltung & Support
 
