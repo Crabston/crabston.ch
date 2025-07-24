@@ -56,7 +56,10 @@ figure.avatar {
 		font-family: Montserrat, sans-serif;
 	}
 
-	p { font-size: 1.5rem; }
+	p {
+		font-size: 1.25rem;
+		max-width: 80vw;
+	}
 }
 
 .mobile-menu #toggle:not(.active) span {
