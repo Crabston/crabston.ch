@@ -21,14 +21,14 @@ figure.avatar {
 	width: 10rem;
 }
 
-#header {
-	background-color: $header-bg-color !important;
+#header, #header.scrolled {
+	background-color: $header-background !important;
 
 	// only list of items which is a direct child of the header nav. doesn't affect nested lists (menu dropdowns)
 	.header-dark & .dropmenu > ul > li {
 		& > a { color: $text-color-secondary-dark !important; }
 
-		& > a.active { color: $text-color-secondary !important; }
+		& > a:is(.active, :focus, :hover) { color: $text-color-secondary !important; }
 	}
 }
 
@@ -41,7 +41,7 @@ figure.avatar {
 }
 
 #footer {
-	background-color: $footer-bg-color !important;
+	background-color: $footer-background !important;
 
 	* { color: $text-color-secondary; }
 }
@@ -56,7 +56,10 @@ figure.avatar {
 		font-family: Montserrat, sans-serif;
 	}
 
-	p { font-size: 1.5rem; }
+	p {
+		font-size: 1.25rem;
+		max-width: 80vw;
+	}
 }
 
 .mobile-menu #toggle:not(.active) span {

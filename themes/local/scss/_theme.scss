@@ -1,26 +1,40 @@
-@import '../../hadron/scss/theme';
+@use 'sass:color';
+@use '../../hadron/scss/theme' as hadron;
+
+// theme variables
+$dark-mode: hadron.$dark-mode;
+$mobile-menu-colored: hadron.$mobile-menu-colored;
 
 // color definitions
 $primary-color: #005CD4;
 $accent-color: #005CD4;
-$grey: #3a414e;
-$light-overlay: rgba(255, 255, 255, 0.25);
-$dark-overlay: rgba(0, 0, 0, 0.25);
-
-// header & footer
-$header-bg-color: $primary-color;
-$header-text-color: $text-color-secondary;
-$footer-bg-color: $primary-color;
-$footer-text-color: $text-color-secondary;
-
-// navigation
-$navigation-background: $primary-color;
-$navigation-background__active: $primary-color;
-$navigation-text: $primary-color;
-$navigation-text__active: $text-color-secondary;
+$grey: hadron.$grey;
+$light-overlay: hadron.$light-overlay;
+$dark-overlay: hadron.$dark-overlay;
 
 // sizes
-$nav-item-height: 4rem;
+$responsive-breakpoint-mobile: hadron.$responsive-breakpoint-mobile;
+$responsive-breakpoint-tablet: hadron.$responsive-breakpoint-tablet;
+$responsive-breakpoint-desktop: hadron.$responsive-breakpoint-desktop;
+
+// content
+$background-color: hadron.$background-color;
+$text-color: hadron.$text-color;
+$text-color-light: hadron.$text-color-light;
+$text-color-secondary: hadron.$text-color-secondary;
+$text-color-secondary-dark: hadron.$text-color-secondary-dark;
+$link-color: hadron.$link-color;
+$link-color__active: hadron.$link-color__active;
+
+// header
+$header-background: $primary-color;
+$header-text: hadron.$header-text;
+$header-text-dark: hadron.$header-text-dark;
+
+// footer
+$footer-background: $primary-color;
+$footer-text: hadron.$footer-text;
+$footer-text-link: hadron.$footer-text-link;
 
 @font-face {
 	font-family: 'Montserrat';
