@@ -3,16 +3,18 @@ title: Über uns
 sitemap:
   changefreq: yearly
   priority: 0.5
-  lastmod: 08-05-2024
-date: 08-05-2024
+  lastmod: 01-07-2024
+date: 01-07-2024
 ---
 
 # Über uns
 
 ## Firma
-Wir sind Crabston GmbH, ein innovatives und dynamisches Unternehmen mit Sitz in Wangen an der Aare, Schweiz. Wir bieten unseren Kunden ein breites Spektrum an Informatikdienstleistungen und weiteren Dienstleistungen an.
+Crabston GmbH ist eine junge Schweizer Firma, die Anfang 2024 als Familienunternehmen gegründet wurde. Wir konzentrieren uns primär auf die IT, bieten aber auch andere Dienstleistungen ausserhalb der IT an, wie zum Beispiel Immobilien. Unser Sitz befindet sich im historischen Städtli in Wangen an der Aare.
 
-Alle unsere Dienstleistungen sind für Sie individualisiert, um Ihren persönlichen Bedürfnissen zu entsprechen. Dabei setzen wir auf modernste Technologien, um unseren Kunden die bestmögliche Unterstützung zu bieten.
+Neben einem breiten Spektrum an allgemeinen Informatikdienstleistungen bieten wir auch individuelle IT Lösungen für unsere Kunden an. Dabei haben wir uns auf die Erstellung von Websites mit [Grav CMS](https://getgrav.org/) und Webshops mit [Snipcart](https://snipcart.com/) spezialisiert, wofür wir unser eigenes Theme «Hadron» entwickeln sowie einige nützliche Plugins für Grav. Dank Grav und unserer Anpassungen kann jeder eine Website betreuen und bearbeiten, selbst wenn man bisher noch keine Erfahrung mit Websites hat. Und auch für erfahrene Nutzer ist es ein positives Erlebnis, anders als man dies von einigen anderen Systemen kennt.
+
+Alle unsere Dienstleistungen sind für unsere Kunden individualisiert, um ihren Bedürfnissen zu entsprechen, nicht unseren. Dabei setzen wir auf aktuelle Tools & Technologien, um die bestmögliche Unterstützung zu bieten.
 
 Die Zufriedenheit unserer Kunden steht für uns an erster Stelle. Wir setzen alles daran, unsere Kunden mit unserem Service und unseren Produkten zu begeistern.
 
@@ -22,22 +24,24 @@ Städtli 16
 3380 Wangen an der Aare  
 [kontakt@crabston.ch](mailto:kontakt@crabston.ch)
 
-## Team
-Lerne unser Team kennen:
+UID: CHE-183.413.699
+
+## Wer sind wir
+Lerne uns kennen:
 
 [columns][center]
 [figure class="avatar"]![Nicholas Krebs](nicholas-krebs.webp)[/figure]
 ### Nicholas Krebs
-**Gründer & IT Spezialist**  
+**IT Spezialist**  
 [/center]
-Nicholas Krebs ist ein Gründer von Crabston und der IT Verantwortliche. Als junger Informatiker mit einer abgeschlossenen EFZ-Ausbildung verfügt er über eine breite Grundbildung in vielen Bereichen der Informatik. Das Programmieren hat er sich während seiner Ausbildung selbst beigebracht und hat bereits einige Projekte realisiert.
+«Ich bin der IT Verantwortliche: Ich erstelle die Websites, mache den Support und helfe bei weiteren IT Anliegen. Meine Ausbildung habe ich im Sommer 2024 als Informatiker EFZ abgeschlossen. Bereits während meiner breiten Ausbildung in den Bereichen Betrieb, Netzwerk und Security habe ich mir das Programmieren selbst beigebracht und eigene Projekte realisiert.»
 
 [center]
 [figure class="avatar"]![Ronald Krebs](ronald-krebs.webp)[/figure]
 ### Ronald Krebs
-**Gründer & Berater**  
+**Berater & Immobilien**  
 [/center]
-Ronald Krebs ist ein Gründer von Crabston und Berater für diverse Dienstleistungen ausserhalb der Informatik. In seiner Jugend hat er den Beruf des Bildhauers erlernt und ausgeübt. Darüber hinaus hat er bereits verschiedene Firmen gegründet und leitet erfolgreich seit einigen Jahren Bargetzi Grabmalkunst GmbH.
+«Ich bin Berater und bin für unsere weiteren Dienstleistungen und Immobilien zuständig. Ursprünglich habe ich den Beruf des Bildhauers erlernt und ausgeübt. Seither habe ich diverse Firmen gegründet. Mittlerweile leite ich seit vielen Jahren primär die Bargetzi Grabmalkunst GmbH.»
 [/columns]
 
 ## Standort

@@ -1,8 +1,8 @@
-title: 'Crabston GmbH'
+title: Crabston
 default_lang: de
 author:
-  name: 'Crabston GmbH'
-  email: contact@crabston.dev
+  name: Crabston GmbH
+  email: kontakt@crabston.ch
 taxonomies:
   - category
   - tag
@@ -10,7 +10,8 @@ taxonomies:
   - author
   - filter
 metadata:
-  description: 'Wir sind Crabston und bieten verschiedene IT Dienstleistungen an.'
+  description: 'Crabston ist ein junges Schweizer Familienunternehmen. Wir bieten verschiedene IT Dienstleistungen, unter anderem Support sowie individuelle IT Lösungen an. Spezialisiert haben wir uns auf die Erstellung von Websites und Webshops, die leicht zu verwalten sind, selbst für Personen ohne Vorkenntnisse.'
+  keywords: 'Crabston, IT Dienstleistungen, IT Support, Webentwicklung, Website, Webshop, Online Shop, Webdesign'
 summary:
   enabled: true
   format: short

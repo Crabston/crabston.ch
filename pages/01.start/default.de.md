@@ -6,13 +6,18 @@ sitemap:
   priority: 1.0
   lastmod: 11-02-2024
 date: 11-02-2024
+metadata:
+	description: Willkommen bei Crabston! Wir haben uns spezialisiert auf die Entwicklung von Websites und Webshops, die jeder verwalten kann, selbst ohne Vorkenntnisse. Ausserdem bieten wir auch weitere Dienstleistungen wie IT Support und individuelle IT Lösungen an.
 ---
 
 [div style="height: 200px"][/div]
 
 [div id=welcome]
 # Willkommen bei Crabston!
-_- Dienstleistungen jeglicher Art -_
+<br/>
+Wir haben uns spezialisiert auf die Entwicklung von Websites und Webshops, die so leicht zu verwalten sind, dass sie auch von Personen ohne Vorkenntnisse problemlos aktualisiert werden können. Auch für erfahrene Nutzer bieten wir eine Vielzahl von Funktionen, die das Arbeiten mit unseren Systemen effizient und angenehm gestalten.
+
+Des Weiteren bieten wird auch andere Dienstleistungen an, wie IT Support und andere individuelle Lösungen, die auf die Bedürfnisse unserer Kunden zugeschnitten sind.
 [/div]
 
 [div style="height: 200px"][/div]
