@@ -3,7 +3,7 @@ title: Angebot
 ---
 
 ## Angebot
-Wir erstellen für Sie eine einzigartige, moderne, professionelle Website, die Ihren Wünschen entspricht. Mithilfe des Grav CMS können Inhalte unkompliziert über einen Texteditor mit Formatierungshilfe bearbeitet werden, selbst wenn man keine Erfahrung mit Websites hat. Dadurch müssen Sie sich keine Sorgen um unerwünschte Designverschiebungen und Fehler machen, anders als man es bei herkömmlichen Baukasten kennt. Mit einem responsiven Design wird die Website auf allen Geräten optimal dargestellt. Grav macht die Website zudem sehr schnell und sicher.
+Wir erstellen für Sie eine einzigartige, moderne, professionelle Website, die Ihren Wünschen entspricht. Mithilfe des [Grav CMS](https://getgrav.org/) können Inhalte unkompliziert über einen Texteditor mit Formatierungshilfe bearbeitet werden, selbst wenn man keine Erfahrung mit Websites hat. Dadurch müssen Sie sich keine Sorgen um unerwünschte Designverschiebungen und Fehler machen, anders als man es bei herkömmlichen Baukasten kennt. Mit einem responsiven Design wird die Website auf allen Geräten optimal dargestellt. Grav macht die Website zudem sehr schnell und sicher.
 
 Die Verwaltung der Website und Hosting, sowie weiteren Komponenten wie Domain, E-Mail und ggf. weiteren übernehmen wir. So können Sie sich voll und ganz auf Ihr Business konzentrieren. Wenn Sie Fragen haben oder Probleme auftauchen sollten, können Sie uns jederzeit kontaktieren und wir lösen diese möglichst zeitnah und kostenlos; die Kosten sind im Gesamtpaketpreis inbegriffen.
 
