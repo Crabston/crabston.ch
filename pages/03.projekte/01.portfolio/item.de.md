@@ -31,7 +31,7 @@ Das Portfolio wurde bewusst ohne CMS erstellt, um möglichst minimalistisch und 
 Mit diesem Portfolio möchte er seine Codekenntnisse zeigen und neue Ideen & Tools ausprobieren sowie seine kreativen Ideen umsetzen.
 
 ## Website
-Das Portfolio ist über folgenden Link erreichbar: [nicholas-krebs.ch](https://nicholas-krebs.ch)
+Das Portfolio ist über folgenden Link erreichbar: [nicholas-krebs.ch](https://nicholas-krebs.ch/?utm_source=crabston.ch&utm_medium=project-page)
 
 ## Tools
 ![Node.JS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&amp;logo=Node.JS)
@@ -47,10 +47,10 @@ Das Portfolio ist über folgenden Link erreichbar: [nicholas-krebs.ch](https://n
 Mit der Zeit werden der Website immer wieder neue Funktionen hinzugefügt. So wurden nachträglich funktionen wie Sprach & Theme Switch, die Coding Statistik, und weiteres hinzugefügt. 
 
 ### 3. Aufteilung
-Ungefähr ein Jahr später wurde die Website in zwei Teile aufgeteilt: das Portfolio auf [nicholas-krebs.ch](https://nicholas-krebs.ch) und die Dienstleistungsseite auf [chraebsli.dev](https://chraebsli.dev). Der Grund dafür war, dass Nicholas eine klare Trennung zwischen Portfolio und Dienstleistungen wollte und so die Möglichkeit hatte, dem Portfolio mehr kreative Freiheit zu geben.
+Ungefähr ein Jahr später wurde die Website in zwei Teile aufgeteilt: das Portfolio auf [nicholas-krebs.ch](https://nicholas-krebs.ch/?utm_source=crabston.ch&utm_medium=project-page) und die Dienstleistungsseite auf [chraebsli.dev](https://chraebsli.dev/?utm_source=crabston.ch&utm_medium=project-page). Der Grund dafür war, dass Nicholas eine klare Trennung zwischen Portfolio und Dienstleistungen wollte und so die Möglichkeit hatte, dem Portfolio mehr kreative Freiheit zu geben.
 
 ### 2. Neuerstellung
 Etwas später wurde die Website im Juni 2022 von Grund auf neu erstellt. Dabei wurde das Design komplett überarbeitet und die Website basiert nun auf den neuesten Technologien mit Node.JS, TypeScript, React und MUI. Zudem wurden viel mehr Inhalte hinzugefügt, und die Website diente sowohl als Portfolio als auch als Dienstleistungsseite.
 
 ### 1. Erstellung
-Zuerst wurde die Website Anfang 2022 unter der Domain [chraebsli.dev](https://chraebsli.dev) veröffentlicht. Damals war es nur eine kleine HTML & CSS basierte Website, um im Internet aufzutreten.
+Zuerst wurde die Website Anfang 2022 unter der Domain [chraebsli.dev](https://chraebsli.dev/?utm_source=crabston.ch&utm_medium=project-page) veröffentlicht. Damals war es nur eine kleine HTML & CSS basierte Website, um im Internet aufzutreten.

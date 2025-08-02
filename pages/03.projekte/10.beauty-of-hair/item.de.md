@@ -26,7 +26,7 @@ Beauty of Hair ist ein Friseursalon in Wangen an der Aare, neben unserem Büro. 
 ## Website
 Wir hatten die Möglichkeit, selbst ein passendes Design zu entwerfen und umzusetzen. Wir haben uns für ein Darkmode only Design entschieden, da dies elegant und modern wirkt. Zudem passen die Farben zum Logo, welches wir ebenfalls Designen durften. Die Website wurde mit Grav CMS umgesetzt, Inhalte bekamen wir vom Kunden, Bilder grösstenteils vom Produktlieferanten.
 
-Die Website ist seit Mitte Februar 2025 online und kann via [wangenhair.ch](https://wangenhair.ch) besucht werden.
+Die Website ist seit Mitte Februar 2025 online und kann via [wangenhair.ch](https://wangenhair.ch/?utm_source=crabston.ch&utm_medium=project-page) besucht werden.
 
 ## Unterhalt
 Die Website wird durch uns verwaltet und gewartet. Der Kunde hat die Möglichkeit, uns bei Änderungen zu kontaktieren oder diese selbst zu machen.

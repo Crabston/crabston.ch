@@ -30,7 +30,7 @@ Die Website wurde mit dem Open Source CMS Grav erstellt, welches durch die Benut
 
 ## Website
 Die Website wurde Ende Juni 2022 veröffentlicht und wird inklusive Domain & DNS Management, Hosting und E-Mail durch uns verwaltet. Inhaltsänderungen werden jedoch selbstständig vom Verein vorgenommen.  
-Sie können die Website über folgenden Link ansehen: [sgrumisberg.ch](https://sgrumisberg.ch)
+Sie können die Website über folgenden Link ansehen: [sgrumisberg.ch](https://sgrumisberg.ch/?utm_source=crabston.ch&utm_medium=project-page)
 
 ## Tools
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&amp;logo=PHP)

@@ -36,6 +36,6 @@ Das Hadron Skeleton ist eine fertige Grav Installation, welche als Vorlage für 
 Auch das Skeleton kann auf GitHub gefunden werden: [github.com/Crabston/grav-skeleton-hadron](https://github.com/Crabston/grav-skeleton-hadron)
 
 ## usehadron.dev
-[usehadron.dev](https://usehadron.dev) ist seit August 2025 die offizielle Website von Hadron. Sie dient zum Anwerben neuer Nutzer sowie als Demoseite mit Beispielen und hat eine Doku für Systemadministratoren und Entwickler, die Hadron in ihren Projekten einsetzen möchten.
+[usehadron.dev](https://usehadron.dev/?utm_source=crabston.ch&utm_medium=project-page) ist seit August 2025 die offizielle Website von Hadron. Sie dient zum Anwerben neuer Nutzer sowie als Demoseite mit Beispielen und hat eine Doku für Systemadministratoren und Entwickler, die Hadron in ihren Projekten einsetzen möchten.
 
-weitere Informationen dazu auf der [Projektseite von usehadron.dev](../usehadron.dev)
+weitere Informationen dazu auf der [Projektseite von usehadron.dev](/projekte/usehadron.dev)

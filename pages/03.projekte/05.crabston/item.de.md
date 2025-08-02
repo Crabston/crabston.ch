@@ -38,7 +38,7 @@ Die Website verfügt über kein CMS, um einen möglichst modernen und minimalist
 Im Juli 2024 wurde die Website auf das Grav CMS umgestellt. Dies ermöglicht es, dass die Inhalte einfacher und schneller aktualisiert werden können. Zudem nutzt es die gleichen Funktionen und Tools, die Crabston für seine Kunden verwendet.
 
 ### 1. Crabston
-Mit der Gründung von Crabston GmbH wurde die alte Website im Februar 2024 abgeschaltet, angepasst und unter dem Namen Crabston neu auf [crabston.ch](https://crabston.ch) veröffentlicht.
+Mit der Gründung von Crabston GmbH wurde die alte Website im Februar 2024 abgeschaltet, angepasst und unter dem Namen Crabston neu auf [crabston.ch](https://crabston.ch/?utm_source=crabston.ch&utm_medium=project-page) veröffentlicht.
 
 ### 0. Aufteilung
 Die Website wurde unter einem anderen im Sommer 2023 in Portfolio und Dienstleistungswebsite aufgeteilt. Mehr dazu beim [Portfolio](/projekte/portfolio).

@@ -32,7 +32,7 @@ Mit dem Blog möchte er sein Wissen teilen und Anleitungen zu verschiedenen Them
 
 ## Website
 Da dies nur ein Nebenprojekt ist, wird die Seite und ihr Inhalt nur zwischendurch aktualisiert und verbessert.  
-Der Blog kann seit Anfang 2023 über folgenden Link aufgerufen werden: [blog.chraebsli.dev](https://blog.chraebsli.dev)
+Der Blog kann seit Anfang 2023 über folgenden Link aufgerufen werden: [blog.chraebsli.dev](https://blog.chraebsli.dev/?utm_source=crabston.ch&utm_medium=project-page)
 
 ## Tools
 ![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&amp;logo=Ruby)

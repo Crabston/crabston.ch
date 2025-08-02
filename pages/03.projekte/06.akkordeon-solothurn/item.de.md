@@ -28,7 +28,7 @@ Es wurde neben Änderungen an Texten auch das Design von Grund auf neu entwickel
 
 ## Website
 Die neue Website wurde Anfang Mai 2024 veröffentlicht und wird einschliesslich Domain, Hosting & E-Mail durch uns verwaltet. Der Verein nimmt jedoch selbst Änderungen am Inhalt vor.  
-Besuchen Sie die neue Website hier: [akkordeonsolothurn.ch](https://akkordeonsolothurn.ch)
+Besuchen Sie die neue Website hier: [akkordeonsolothurn.ch](https://akkordeonsolothurn.ch/?utm_source=crabston.ch&utm_medium=project-page)
 
 ## Tools
 ![Grav](https://img.shields.io/badge/Grav-black?style=for-the-badge&amp;logo=Grav)

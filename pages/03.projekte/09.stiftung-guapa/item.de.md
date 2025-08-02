@@ -24,7 +24,7 @@ Das erste grössere Projekt für Crabston war die Website für die Stiftung Guap
 Die Stiftung Guapa ist eine gemeinnützige Organisation, die sich für Tiere in Not einsetzt. Sie kümmert sich um die Tiere, die ausgesetzt oder misshandelt wurden und gibt ihnen ein neues Zuhause. Sie betreiben eine Auffangstation, um Tiere aufzunehmen, die sonst keine Chance hätten.
 
 ## Website
-Die Website und dessen Design haben wir zuerst gemeinsam mit dem Kunden entworfen. Anschliessend haben wir die Website mit Grav CMS umgesetzt, der gesamte Inhalt wurde von der Stiftung Guapa bereitgestellt. Seit Anfang Dezember 2024 ist die Website öffentlich und kann via [stiftung-guapa.org](https://stiftung-guapa.org) besucht werden.
+Die Website und dessen Design haben wir zuerst gemeinsam mit dem Kunden entworfen. Anschliessend haben wir die Website mit Grav CMS umgesetzt, der gesamte Inhalt wurde von der Stiftung Guapa bereitgestellt. Seit Anfang Dezember 2024 ist die Website öffentlich und kann via [stiftung-guapa.org](https://stiftung-guapa.org/?utm_source=crabston.ch&utm_medium=project-page) besucht werden.
 
 ## Unterhalt
 Die Stiftung pflegt seitdem die Website selbst. Wir übernehmen noch die Verwaltung und Wartung der Website sowie dessen Komponenten.

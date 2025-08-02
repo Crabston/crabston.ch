@@ -30,7 +30,7 @@ Die alte Website war mühsam zu verwalten, da sie kein CMS besass. Aus diesem Gr
 
 ## Website
 Die Website wurde im September 2022 veröffentlicht und wird inklusive Domain & DNS Management, Hosting und E-Mail durch uns verwaltet. Inhaltsänderungen werden jedoch selbstständig vom Verein vorgenommen.  
-Sie ist über folgenden Link erreichbar: [mgrumisberg.ch](https://mgrumisberg.ch)
+Sie ist über folgenden Link erreichbar: [mgrumisberg.ch](https://mgrumisberg.ch/?utm_source=crabston.ch&utm_medium=project-page)
 
 ## Tools
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&amp;logo=PHP)
