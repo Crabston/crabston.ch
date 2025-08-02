@@ -4,7 +4,7 @@ slug: hadron
 sitemap:
   changefreq: never
   priority: 0.4
-  lastmod: 26-11-2024
+  lastmod: 03-08-2025
 date: 01-09-2024
 taxonomy:
   category: Projekte
@@ -21,10 +21,11 @@ Hadron ist ein Theme & Skeleton zu Grav CMS, welches auf Quark, der Standard von
 # Hadron
 ![Hadron Logo](hadron.webp?lightbox&resize=600)
 
-Hadron ist ein Theme & Skeleton zu Grav CMS, welches auf Quark, der Standard von Grav, basiert. Hadron erweitert Quark mit neuen Funktionen und mehr Styling Optionen, sowie einfacherer Handhabung.  
-Mit Hadron möchten wir Quark & Grav verbessern. Mit mehr Flexibilität, mehr Funktionen und einfacherer Handhabung soll Hadron die Arbeit mit Grav erleichtern und verbessern, vor allem für Einsteiger und mit wenig Aufwand.
+Hadron ist ein Theme & Skeleton zu Grav CMS, welches auf Quark, der Standard von Grav, basiert. Mit mehr Flexibilität, mehr Funktionen und einfacherer Handhabung soll Hadron die Arbeit mit Grav erleichtern und Quark verbessern, vor allem für Einsteiger und mit wenig Aufwand.
 
 Obschon bereits vorher erstellt und entwickelt, hat das Theme seit September 2024 den Namen und ist nun seit Anfang Oktober 2024 öffentlich verfügbar.
+
+In Zukunft soll Hadron Quark vollständig ersetzen und ein volles Theme mit noch mehr Funktionen, Flexibilität und Styling Optionen bieten. Dafür werden wir das CSS Framework Spectre, vollständig übernehmen und erweitern. 
 
 ## Theme
 Das Hadron Theme ist der grundlegende Baustein von Hadron. Das Theme kann in jeder Grav Installation hinzugefügt werden und ist der Ausgangspunkt für die Nutzung von Hadron. Das Theme bietet viele Funktionen und Styling Optionen, welche in Quark nicht vorhanden sind.  
@@ -34,10 +35,7 @@ Das Theme ist auf GitHub verfügbar: [github.com/Crabston/grav-theme-hadron](htt
 Das Hadron Skeleton ist eine fertige Grav Installation, welche als Vorlage für neue Projekte genutzt werden kann. Das Skeleton enthält bereits das Hadron Theme und einige Beispiele. Unsere Websites basieren auf dem Hadron Skeleton.  
 Auch das Skeleton kann auf GitHub gefunden werden: [github.com/Crabston/grav-skeleton-hadron](https://github.com/Crabston/grav-skeleton-hadron)
 
-## Demo
-Natürlich darf eine Demo nicht fehlen. Die Demo zeigt die aktuelle Version vom Hadron Skeleton und somit auch vom Hadron Theme. 
+## usehadron.dev
+[usehadron.dev](https://usehadron.dev) ist seit August 2025 die offizielle Website von Hadron. Sie dient zum Anwerben neuer Nutzer sowie als Demoseite mit Beispielen und hat eine Doku für Systemadministratoren und Entwickler, die Hadron in ihren Projekten einsetzen möchten.
 
-Die Demoseite beinhaltet eine Startseite mit den wichtigsten Details, eine Seite mit einer Liste aller verfügbaren Komponenten und eine vielzahl an Beispielen für Standardseiten, Blogs, Formulare, komplexe Layouts und mehr. die Demo ist unter über [grav.demo.crabston.dev](https://grav.demo.crabston.dev) erreichbar.
-
-## weitere Informationen
-Weitere Informationen zu Hadron können auf dem [Crabston Tutorial](/projekte/tutorials) gefunden werden: [tutorials.crabston.ch/hadron](https://tutorials.crabston.ch/hadron)
+weitere Informationen dazu auf der [Projektseite von usehadron.dev](../usehadron.dev)
