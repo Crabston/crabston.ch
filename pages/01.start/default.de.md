@@ -29,4 +29,4 @@ Wir bieten folgende Dienstleistungen an:
 
 ---
 ## Projekte
-Eine Liste unserer Projekte findet sie auf unserer [Projektseite /projekte](/projekte).
+Eine Liste einiger unserer Projekte finden Sie auf unserer [Projektseite](/projekte).

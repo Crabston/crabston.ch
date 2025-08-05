@@ -8,10 +8,10 @@ date: 27-05-2024
 ---
 
 # Datenschutzerklärung
-_Stand: `27.05.2024`_
+_Stand: `05.08.2025`_
 
 ## 1. Allgemeines
-Mit dieser Datenschutzerklärung informiert die Crabston Gmbh (nachfolgend «Crabston», «wir» oder «uns» genannt), welche Daten er von natürlichen Personen wofür, wie und wo bearbeitet, im Zusammenhang mit den Websites [crabston.ch](https://crabston.ch), [crabston.com](https://crabston.com) und [crabston.dev](https://crabston.dev). Ausserdem informiert er über die Rechte von Personen, deren Daten er bearbeitet.
+Mit dieser Datenschutzerklärung informiert die Crabston Gmbh (nachfolgend «Crabston», «wir» oder «uns» genannt), welche Daten er von natürlichen Personen wofür, wie und wo bearbeitet, im Zusammenhang mit den Websites [crabston.ch](https://crabston.ch), [crabston.com](https://crabston.com), [crabston.dev](https://crabston.dev), [tutorials.crabston.ch](https://tutorials.crabston.ch) und [usehadron.dev](https://usehadron.dev). Ausserdem informiert er über die Rechte von Personen, deren Daten er bearbeitet.
 
 Diese Datenschutzerklärung gilt, soweit die Verarbeitungstätigkeiten nicht anderen Datenschutzerklärungen unterliegen oder durch geltendes Recht vorgesehen sind. Bitte lesen Sie diese Datenschutzerklärung sorgfältig durch. Durch die Nutzung unserer Dienstleistungen stimmen Sie der Erhebung und Verarbeitung Ihrer personenbezogenen Daten gemäss dieser Datenschutzerklärung zu.
 
@@ -33,10 +33,10 @@ Städtli 16 <br />
 Wir bearbeiten nur jene Personendaten, die erforderlich sind, um unsere Dienstleistungen dauerhaft, nutzerfreundlich, sicher und zuverlässig bereitstellen zu können. Darunter können auch Daten von natürlichen Personen mit Sitz im Ausland fallen. Wir erheben, bearbeiten und verwenden keine besonders schützenswerten Daten im Sinne des Datenschutzgesetzes.
 
 ### 2.1 Bearbeitungszweck
-Die von uns erhobenen Personendaten stehen in direktem Zusammenhang mit dem Zweck der Grav Tutorial Webseite und den damit verbundenen Aufgaben.
+Die von uns erhobenen Personendaten stehen in direktem Zusammenhang mit unseren angebotenen Dienstleistungen und den damit verbundenen Aufgaben.
 
 ### 2.2 Bearbeitungsinhalt- und Dauer
-Wir erfassen nur Personendaten, die dem Zweck der Grav Tutorial Webseite dienen und gemäss Datenschutzgesetz als nicht besonders schützenswert eingestuft werden. Wir bearbeiten also keine besonders schützenswerten Daten über religiöse, politische Ansichten oder Tätigkeiten, Gesundheitsdaten, Daten zur Intimsphäre, Rasse oder Ethnie, genetische und biometrische Daten, solche zu verwaltungs- und strafrechtlichen Verfahren sowie Daten zu Sozialhilfemassnahmen. Die Daten werden nur so lange aufbewahrt, wie sie gemäss 2.1 Bearbeitungszweck dienen.
+Wir erfassen nur Personendaten, die dem Zweck unserer Dienstleistungen dienen und gemäss Datenschutzgesetz als nicht besonders schützenswert eingestuft werden. Wir bearbeiten also keine besonders schützenswerten Daten über religiöse, politische Ansichten oder Tätigkeiten, Gesundheitsdaten, Daten zur Intimsphäre, Rasse oder Ethnie, genetische und biometrische Daten, solche zu verwaltungs- und strafrechtlichen Verfahren sowie Daten zu Sozialhilfemassnahmen. Die Daten werden nur so lange aufbewahrt, wie sie gemäss 2.1 Bearbeitungszweck dienen.
 
 #### 2.2.1 Automatisch übermittelte Informationen
 Wir erheben und speichern Informationen, die Ihr Browser uns beim Besuch unserer Website automatisch in «Server-Log-Dateien» übermittelt. Die Datenerhebung erfolgt aufgrund Ihres Willens und Interesses, unsere Website zu besuchen und unserer berechtigten Interessen, die Website zu betreiben.

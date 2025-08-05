@@ -8,7 +8,12 @@ date: 21-11-2024
 ---
 
 # Impressum
-Diese Website wird programmiert, betrieben und verwaltet durch die Crabston GmbH.
+Folgende Websites werden von uns programmiert, betrieben und direkt verwaltet:
+- [crabston.ch](https://crabston.ch)
+- [crabston.com](https://crabston.com)
+- [crabston.dev](https://crabston.dev)
+- [tutorials.crabston.ch](https://tutorials.crabston.ch)
+- [usehadron.dev](https://usehadron.dev)
 
 ## Kontaktperson
 

@@ -16,7 +16,7 @@ date: 24-07-2025
 Um Supportleistungen zu erhalten, können folgende Kanäle genutzt werden:
 - [Helpdesk Portal](https://crabston.atlassian.net/servicedesk/customer/portals) _(Konto benötigt)_
 - Support E-Mail Adresse ([support@crabston.dev](mailto:support@crabston.dev))
-- Anruf nur bei dringenden Fällen: [+41 76 471 29 12](tel:+41764712912)
+- Anruf nur bei dringenden Fällen: [+41 79 906 06 06](tel:+41799060606)
 
 Bei Kontaktversuchen über andere E-Mail Adressen, Telefon, Chat sowie weitere inoffizielle Kanäle kann die SLA nicht garantiert werden und es kann zu unerwünschten Verzögerungen kommen. Ausgenommen diese wurden explizit in der SLA vereinbart.
 
