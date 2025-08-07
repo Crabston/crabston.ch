@@ -15,7 +15,7 @@ metadata:
 [div id=welcome]
 # Willkommen bei Crabston!
 <br/>
-Wir haben uns spezialisiert auf die Entwicklung von Websites und Webshops, die so leicht zu verwalten sind, dass sie auch von Personen ohne Vorkenntnisse problemlos aktualisiert werden können. Auch für erfahrene Nutzer bieten wir eine Vielzahl von Funktionen, die das Arbeiten mit unseren Systemen effizient und angenehm gestalten.
+Wir haben uns spezialisiert auf die Entwicklung von Websites und Webshops, die so leicht zu verwalten sind, dass sie auch von Personen ohne Vorkenntnisse problemlos aktualisiert werden können. Auch für erfahrene Nutzer bieten wir eine Vielzahl von Funktionen, die das Arbeiten mit unseren Systemen effizient und angenehm gestalten. Dafür haben wir [span class="hadron-font"][Hadron](https://usehadron.dev/?utm_source=crabston.ch&utm_medium=portfolio)[/span] entwickelt.
 
 Des Weiteren bieten wird auch andere Dienstleistungen an, wie IT Support und andere individuelle Lösungen, die auf die Bedürfnisse unserer Kunden zugeschnitten sind.
 [/div]
