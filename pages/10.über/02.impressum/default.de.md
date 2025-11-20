@@ -21,7 +21,7 @@ Crabston GmbH <br />
 Nicholas Krebs <br />
 Städtli 16 <br />
 3380 Wangen an der Aare <br />
-[nicholas@crabston.ch](mailto:nicholas@crabston.ch) <br />
+[safe-email autolink="true" icon="envelope-o"]nicholas@crabston.ch[/safe-email] <br />
 
 ## Medien
 

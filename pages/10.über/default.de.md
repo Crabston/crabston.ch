@@ -21,8 +21,8 @@ Die Zufriedenheit unserer Kunden steht für uns an erster Stelle. Wir setzen all
 Unser Büro finden Sie unter folgender Adresse:  
 Crabston GmbH  
 Städtli 16  
-3380 Wangen an der Aare  
-[kontakt@crabston.ch](mailto:kontakt@crabston.ch)
+3380 Wangen an der Aare
+[safe-email autolink="true" icon="envelope-o"]kontakt@crabston.ch[/safe-email]
 
 UID: CHE-183.413.699
 

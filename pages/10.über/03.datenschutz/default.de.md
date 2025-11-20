@@ -27,7 +27,7 @@ Crabston GmbH <br />
 Nicholas Krebs <br />
 Städtli 16 <br />
 3380 Wangen an der Aare <br />
-[nicholas@crabston.ch](mailto:nicholas@crabston.ch) <br />
+[safe-email autolink="true" icon="envelope-o"]nicholas@crabston.ch[/safe-email] <br />
 
 ## 2. Bearbeitung von Personendaten
 Wir bearbeiten nur jene Personendaten, die erforderlich sind, um unsere Dienstleistungen dauerhaft, nutzerfreundlich, sicher und zuverlässig bereitstellen zu können. Darunter können auch Daten von natürlichen Personen mit Sitz im Ausland fallen. Wir erheben, bearbeiten und verwenden keine besonders schützenswerten Daten im Sinne des Datenschutzgesetzes.

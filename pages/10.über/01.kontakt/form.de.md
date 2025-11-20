@@ -77,4 +77,4 @@ form:
 
 # Kontakt
 
-Kontaktieren Sie uns bitte über folgende E-Mail Adresse: [kontakt@crabston.ch](mailto:kontakt@crabston.ch). Alternativ können Sie auch über das Kontaktformular mit uns Kontakt aufnehmen.
+Kontaktieren Sie uns bitte über folgende E-Mail Adresse: [safe-email autolink="true" icon="envelope-o"]kontakt@crabston.ch[/safe-email]. Alternativ können Sie auch über das Kontaktformular mit uns Kontakt aufnehmen.
