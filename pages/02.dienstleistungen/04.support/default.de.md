@@ -5,8 +5,8 @@ slug: support
 sitemap:
   changefreq: monthly
   priority: 0.7
-  lastmod: 01-07-2025
-date: 01-07-2025
+  lastmod: 17-02-2026
+date: 17-02-2026
 onpage_menu: false
 content:
   items: '@self.modular'
@@ -40,12 +40,35 @@ _Benötigen Sie eine andere IT Dienstleistung oder haben Sie eine Frage zur IT?_
 
 Wir bieten Ihnen individuellen Support und massgeschneiderte IT Dienstleistungen an. Egal ob Sie Hilfe bei einem IT Problem benötigen, eine Beratung wünschen oder eine spezielle Dienstleistung suchen, wir finden eine passende Lösung für Sie.
 
-Hier ein paar Beispiele unserer Kompetenzen:
-- **IT Support**: Wir helfen Ihnen bei technischen Problemen, sei es bei Software, Hardware oder Netzwerken.
-- **IT Beratung**: Wir beraten Sie in IT Fragen, sei es bei der Planung von IT Projekten oder der Auswahl von Hardware und Software.
-- **Domains & Hosting**: Wir verwalten Ihre Domains, helfen beim Transfer und bieten diverse Hostinglösungen an.
-- **Datenrettung**: Wir unterstützen bei der Wiederherstellung von verlorenen oder beschädigten Daten auf Festplatten und SSDs.
+## Dienstleistungen
+Nachfolgend eine Übersicht unserer Dienstleistungen. Die Liste ist nicht abschliessend, wir bieten auch andere IT Dienstleistungen an, wenn wir diese umsetzen können.
+- **IT Support**:
+  - Austausch & Reparatur von Tower PC / Laptop Hardware
+  - Einrichtung von Netzwerken, WLAN, Druckern und anderen Peripheriegeräten
+  - Software Installation & Konfiguration von Betriebssystemen, Treibern, Apps & andere Software _(Windows, Linux)_
+  - Fehlerbehebung bei Hardware- und Softwareproblemen im Betriebssystem, Software & Netzwerk _(Windows, Linux)_
+- **IT Beratung**:
+  - Beratung bei der Auswahl von Hardware, Software und andere IT Lösungen für Privatpersonen und Unternehmen
+  - Schulung für die Nutzung von IT Systemen und Software
+  - Sicherheitsberatung und Implementierung von Sicherheitslösungen, z.B. Firewall, Antivirus, Backup Lösungen
+- **Domains & Hosting**:
+  - Domain Verwaltung, Transfer und Einrichtung von DNS Einträgen
+  - Webhosting, E-Mail Hosting und Cloud Speicher Lösungen
+- **andere IT Dienstleistungen**:
+  - Einrichten und Verwaltung von FortiGate Firewall, FortiSwitch und FortiAP Geräten
 
-Haben Sie ein spezielles Anliegen oder benötigen Sie eine Dienstleistung, die hier nicht aufgeführt ist? Gerne nehmen wir auch andere Aufträge entgegen, wenn wir diese umsetzen können. Fragen Sie uns einfach an, wir helfen Ihnen gerne weiter:
+## Kosten
+Kosten für IT Support:
+- **Verrechnung:** nach Aufwand, je 15 Minuten
+- **Remote Support:** 120.- CHF pro Stunde
+- **Vor-Ort Support:** 120.- CHF pro Stunde;
+  - **Fahrtkosten:** 80.- CHF pro Stunde, kein Kilometerzuschlag
+- **Bezahlung:** auf Rechnung, zahlbar innerhalb von 30 Tagen
 
-[Anfrage senden](/über/kontakt?classes=btn,btn-secondary,btn-lg)
+Auf Anfrage erstellen wir Ihnen gerne ein individuelles Angebot.
+
+## Anfrage Senden
+Können wir Ihnen weiterhelfen? Senden Sie uns eine Anfrage, wir beraten Sie gerne kostenlos und unverbindlich zu Ihren Anliegen und Fragen im Bereich der IT.
+Gerne erstellen wir Ihnen auch ein individuelles Angebot für eine Dienstleistung, die hier nicht aufgeführt ist, wenn wir diese umsetzen können.
+
+[Anfrage senden](/über/kontakt?service=support&classes=btn,btn-secondary,btn-lg)
