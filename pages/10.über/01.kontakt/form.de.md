@@ -3,8 +3,8 @@ title: Kontakt
 sitemap:
   changefreq: yearly
   priority: 0.7
-  lastmod: 11-02-2024
-date: 11-02-2024
+  lastmod: 17-02-2026
+date: 17-02-2026
 
 form:
   name: contact-form
@@ -36,12 +36,43 @@ form:
       validate:
         required: '1'
 
-    subject:
-      type: text
-      label: Betreff
-      placeholder: 'Ihr Anliegen'
+    phone:
+      type: tel
+      label: 'Telefonnummer'
+      placeholder: +41 12 345 67 89
       validate:
-        required: '1'
+        required: '0'
+
+    sub:
+      type: columns
+      fields:
+
+        col1:
+          type: column
+          classes: 'width-auto'
+          fields:
+            service:
+              type: select
+              label: Dienstleistung
+              placeholder: 'Wählen Sie eine Dienstleistung aus'
+              data-default@: ['\Grav\Theme\Hadron::getUriQueryParam', 'service']
+              options:
+                website: 'Website'
+                webshop: 'Webshop'
+                support: 'IT Support'
+              validate:
+                required: '1'
+
+        col2:
+          type: column
+          fields:
+            subject:
+              type: text
+              size: long
+              label: Betreff
+              placeholder: 'Ihr Anliegen'
+              validate:
+                required: '1'
 
     message:
       type: textarea
@@ -75,6 +106,12 @@ form:
     message: 'Wir haben Ihre Nachricht erhalten und werden uns in Kürze bei Ihnen melden.'
 ---
 
+<style>
+.width-auto {
+	width: auto !important;
+}
+</style>
+
 # Kontakt
 
-Kontaktieren Sie uns bitte über folgende E-Mail Adresse: [safe-email autolink="true" icon="envelope-o"]kontakt@crabston.ch[/safe-email]. Alternativ können Sie auch über das Kontaktformular mit uns Kontakt aufnehmen.
+Kontaktieren Sie uns gerne über das folgende Formular oder per E-Mail an [safe-email autolink="true" icon="envelope-o"]kontakt@crabston.ch[/safe-email]. Wir werden uns so schnell wie möglich bei Ihnen melden.
