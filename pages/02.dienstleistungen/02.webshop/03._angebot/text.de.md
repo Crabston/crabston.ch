@@ -47,4 +47,4 @@ Sind Sie interessiert an einem Webshop? Haben Sie noch offene Fragen oder Unklar
 
 Wir helfen Ihnen sehr gerne weiter. Auf unserer Kontaktseite finden Sie unsere Daten und ein Kontaktformular:
 
-[Anfrage senden](/über/kontakt?classes=btn,btn-secondary,btn-lg)
+[Anfrage senden](/über/kontakt?service=webshop&classes=btn,btn-secondary,btn-lg)

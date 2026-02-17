@@ -49,4 +49,4 @@ Haben Sie Interesse an einer Website? Ist Ihnen etwas unklar oder sind Sie sich 
 
 Wir helfen Ihnen sehr gerne weiter. Auf unsere Kontaktseite finden Sie unsere Daten und ein Kontaktformular:
 
-[Anfrage senden](/über/kontakt?classes=btn,btn-secondary,btn-lg)
+[Anfrage senden](/über/kontakt?service=website&classes=btn,btn-secondary,btn-lg)
